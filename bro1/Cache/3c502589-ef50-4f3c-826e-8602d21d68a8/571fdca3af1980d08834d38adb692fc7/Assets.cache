@@ -1,0 +1,15 @@
+- !<AssetCache/571fdca3-af19-80d0-8834-d38adb692fc7>
+  AssetFiles:
+    b0d464ba-5a9e-4099-b92f-4e7947a06e64: 3c502589-ef50-4f3c-826e-8602d21d68a8/571fdca3af1980d08834d38adb692fc7/Data/karate_board_color.png
+  AssetCurrentFiles:
+    b0d464ba-5a9e-4099-b92f-4e7947a06e64: 3c502589-ef50-4f3c-826e-8602d21d68a8/571fdca3af1980d08834d38adb692fc7/Data/Performance/Medium/karate_board_color.pvr
+  Assets:
+    - !<FileTexture/b0d464ba-5a9e-4099-b92f-4e7947a06e64>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 571fdca3af1980d08834d38adb692fc7
+  FileHash: 1588bfdd6f2659af6ea06c6e6237d887
+  NativePackageItems:
+    []

@@ -1,0 +1,5 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 4080b0f0-77fa-4978-b981-abb2f9c7332a: "C:/Users/StarN/Downloads/10450_Rectangular_Grass_Patch_v1_iterations-2.obj"
+  options: 4

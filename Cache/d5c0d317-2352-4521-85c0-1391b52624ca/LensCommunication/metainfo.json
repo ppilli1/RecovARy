@@ -1,0 +1,79 @@
+{
+    "activation_camera": "front",
+    "additional_hint_ids": [],
+    "api_level": "private",
+    "ar_shopping_metadata": {
+        "domains": []
+    },
+    "asset_library_asset_ids": [],
+    "asset_packages": {
+        "asset_packages_asset_ids": [],
+        "asset_packages_export_ids": [],
+        "asset_packages_ids": [],
+        "asset_packages_names": []
+    },
+    "categories": [
+        "4e456a9a-c69a-4b48-b087-2bc087c331a1",
+        "LENS_CATEGORY_SELFIE",
+        "LENS_CATEGORY_SKY"
+    ],
+    "compatibility_descriptors": [
+        "mobile",
+        "web"
+    ],
+    "connected_lens_info": null,
+    "contains_giphy": false,
+    "context": {
+        "applicability": [
+            "live_camera",
+            "reply_camera",
+            "video_chat"
+        ],
+        "camera": [
+            "front",
+            "rear"
+        ]
+    },
+    "core_version": 274,
+    "custom_components": {
+        "custom_components_asset_ids": [],
+        "custom_components_export_ids": [],
+        "custom_components_ids": [],
+        "custom_components_names": []
+    },
+    "custom_location_tracking_ids": [],
+    "custom_markers": [],
+    "from_template": {
+        "template_name": "Default",
+        "template_url": "Lens Studio 5.0.17.24070404"
+    },
+    "has_3d_face_mesh": false,
+    "has_retouch_with_auto": false,
+    "has_retouch_without_auto": false,
+    "hint_id": "",
+    "icon_file": "",
+    "lens_descriptors": [],
+    "lens_name": "Untitled",
+    "location_tracking_ids": [],
+    "minimum_lens_core_version": 274,
+    "minimum_sc_android_version": "13.4.0.0",
+    "minimum_sc_ios_version": "13.4.0.0",
+    "ml_assets": [],
+    "object_tracking": [],
+    "object_tracking_3d": [],
+    "remote_api_info": null,
+    "segmentation": [],
+    "snap_tracks_info": [],
+    "studio_version": {
+        "build": 24091703,
+        "major": 5,
+        "minor": 1,
+        "patch": 0,
+        "type": "Internal"
+    },
+    "third_party": false,
+    "updated_at_timestamp": 1727390221824,
+    "use_snapcode_marker_tracking": false,
+    "use_world_mesh": false,
+    "world_tile_location_ids": []
+}

@@ -1,0 +1,15 @@
+- !<AssetCache/3319b954-6197-7fc4-3b4a-2763724bee01>
+  AssetFiles:
+    e4bff90f-d053-4e18-bbc4-3dfdee4a6c64: 960fb334-fba8-46c6-8272-30dc88988291/3319b95461977fc43b4a2763724bee01/Data/baseball_pitcher.png
+  AssetCurrentFiles:
+    e4bff90f-d053-4e18-bbc4-3dfdee4a6c64: 960fb334-fba8-46c6-8272-30dc88988291/3319b95461977fc43b4a2763724bee01/Data/Performance/Medium/baseball_pitcher.pvr
+  Assets:
+    - !<FileTexture/e4bff90f-d053-4e18-bbc4-3dfdee4a6c64>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 3319b95461977fc43b4a2763724bee01
+  FileHash: b133eb236f4397d5ace9c48f470740f5
+  NativePackageItems:
+    []

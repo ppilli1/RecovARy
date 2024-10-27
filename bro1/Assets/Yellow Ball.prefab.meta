@@ -1,0 +1,85 @@
+- !<AssetImportMetadata/3fc096fd-7da7-4678-aef5-74057d55da4e>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> fed709d7-d6d9-4d8c-b77a-c4f7e2b7fa17
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> fed709d7-d6d9-4d8c-b77a-c4f7e2b7fa17
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 6195afc6-c213-4a9d-8e56-7f23c1257ef9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/bccf6725-707b-424e-9a52-8ffe9dd2e030>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefab/23f94c6a-352b-4c0e-bce1-0c25aca17d50>
+  PackagePath: ""
+  objects:
+    - !<own> 97ce7df0-dc32-42fe-bd7b-34de25cb7cc5
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/5e0c6c6d-3f8e-46a6-8a39-afaf683df0f1>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 60c11cd3-7638-43a7-be73-89a0112e765b
+  Mesh: !<reference> 9501feee-2a96-40d8-b82b-6cea21a04f07
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/6195afc6-c213-4a9d-8e56-7f23c1257ef9>
+  SourceRemaps:
+    - 1d5c526e-d490-4601-b738-d926a6dee6f2: 6f656e12-f03f-4b0a-8b29-18223520f52b
+    - 5e09719c-6c2c-4c2b-84a8-b59fd23933fe: 97ce7df0-dc32-42fe-bd7b-34de25cb7cc5
+    - 807f89fb-60bb-49db-80df-c50a44c78176: 5e0c6c6d-3f8e-46a6-8a39-afaf683df0f1
+  SourceState: !<own> 23f94c6a-352b-4c0e-bce1-0c25aca17d50
+- !<BodyComponent/6f656e12-f03f-4b0a-8b29-18223520f52b>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: true
+    Radius: 6.000000
+  Matter: !<reference> b6b5075b-d7b4-4750-9f1a-db34987abd9c
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 0.000100
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<SceneObject/97ce7df0-dc32-42fe-bd7b-34de25cb7cc5>
+  PrefabRemaps:
+    []
+  Name: Yellow Ball
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.825445, y: 15.732000, z: -142.580261}
+    rotation: {x: 0.000000, y: -0.000016, z: 0.000000}
+    scale: {x: 4.000000, y: 4.000000, z: 4.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5e0c6c6d-3f8e-46a6-8a39-afaf683df0f1
+    - !<own> 6f656e12-f03f-4b0a-8b29-18223520f52b

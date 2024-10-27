@@ -1,0 +1,18 @@
+- !<AssetCache/05115fe5-23a8-d604-ae72-e8118c5b6ee6>
+  AssetFiles:
+    4b417ab8-5671-4657-9dbd-fbd6b5d40315: a334d3fd-9e36-4d88-88c9-36f1c436dfa2/05115fe523a8d604ae72e8118c5b6ee6/Data/C_karate_board_pile_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/4b417ab8-5671-4657-9dbd-fbd6b5d40315>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 72
+        Vertices: 144
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 05115fe523a8d604ae72e8118c5b6ee6
+  FileHash: 7c3db850bdc888d3c8cc19b9e4eecf8a
+  NativePackageItems:
+    []

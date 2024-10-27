@@ -1,0 +1,37 @@
+- !<ObjectPrefab/f0c0876d-d54c-4874-86e9-28866b1d8f17>
+  PackagePath: ""
+  objects:
+    - !<own> 2cb06b3e-a5ed-4a66-bb04-1e2350b8e458
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/2cb06b3e-a5ed-4a66-bb04-1e2350b8e458>
+  PrefabRemaps:
+    []
+  Name: Generator
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 23.966328, y: 9.838946, z: -62.475845}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 3.000000, y: 3.100000, z: 2.100000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ee6425d0-2b4e-45c8-aec5-87ed6ee88646
+- !<ScriptComponent/ee6425d0-2b4e-45c8-aec5-87ed6ee88646>
+  PrefabRemaps:
+    []
+  Name: Generator
+  Enabled: true
+  ScriptAsset: !<reference> a784eb40-b71b-4aae-ad7d-e1aa9bc80774
+  ScriptInputsDefault:
+    ball: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      ball: !<reference.ObjectPrefab> 959c1065-0ac3-41ca-9b7c-0d336ceaba62
+  ScriptTypes:
+    "":
+      {}

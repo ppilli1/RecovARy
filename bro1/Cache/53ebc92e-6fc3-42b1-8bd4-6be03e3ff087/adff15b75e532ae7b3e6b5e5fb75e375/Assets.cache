@@ -1,0 +1,18 @@
+- !<AssetCache/adff15b7-5e53-2ae7-b3e6-b5e5fb75e375>
+  AssetFiles:
+    12d3781c-90fa-41fc-94ff-67aeaa2dc3e8: 53ebc92e-6fc3-42b1-8bd4-6be03e3ff087/adff15b75e532ae7b3e6b5e5fb75e375/Data/C_skipoles_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/12d3781c-90fa-41fc-94ff-67aeaa2dc3e8>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 159
+        Vertices: 175
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: adff15b75e532ae7b3e6b5e5fb75e375
+  FileHash: b792575c23b1b7ff4c66c170dc08fbd6
+  NativePackageItems:
+    []

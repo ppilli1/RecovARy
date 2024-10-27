@@ -1,0 +1,18 @@
+- !<AssetCache/971c5d03-584b-a824-de25-1daee77d0122>
+  AssetFiles:
+    f96eeb38-cddb-4831-8b73-6d14b946664e: 8963da38-2aaa-4c6f-9597-75f0a4f479a1/971c5d03584ba824de251daee77d0122/Data/C_iceHole_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/f96eeb38-cddb-4831-8b73-6d14b946664e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 160
+        Vertices: 124
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 971c5d03584ba824de251daee77d0122
+  FileHash: 25de53f4a4213d484de049db88c64043
+  NativePackageItems:
+    []

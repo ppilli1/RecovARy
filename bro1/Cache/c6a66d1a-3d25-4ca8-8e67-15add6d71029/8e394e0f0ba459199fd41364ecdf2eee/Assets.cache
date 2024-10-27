@@ -1,0 +1,18 @@
+- !<AssetCache/8e394e0f-0ba4-5919-9fd4-1364ecdf2eee>
+  AssetFiles:
+    14361508-7b71-46da-9fdf-4423398e5360: c6a66d1a-3d25-4ca8-8e67-15add6d71029/8e394e0f0ba459199fd41364ecdf2eee/Data/C_Labtable_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/14361508-7b71-46da-9fdf-4423398e5360>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 92
+        Vertices: 112
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 8e394e0f0ba459199fd41364ecdf2eee
+  FileHash: 860e43356e6c8b4ac463eee3afcf5861
+  NativePackageItems:
+    []

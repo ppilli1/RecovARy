@@ -1,0 +1,74 @@
+- !<AssetCache/89c7f41d-5334-7859-6e4b-540aba547d3d>
+  AssetFiles:
+    2b384597-8e5c-4cef-a341-deb183160f43: 4080b0f0-77fa-4978-b981-abb2f9c7332a/89c7f41d533478596e4b540aba547d3d/Data/Meshes/10450_Rectangular_Grass_Patch_v1.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<ObjectPrefab/04793034-1e7f-4a73-b0cb-e4863f594da4>
+      PackagePath: ""
+      objects:
+        - !<own> 38383f5b-3e68-4924-b5b2-8632e13ba3a7
+      LazyLoading: false
+      RetainAssets: true
+    - !<FileMesh/2b384597-8e5c-4cef-a341-deb183160f43>
+      PackagePath: Meshes/10450_Rectangular_Grass_Patch_v1
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 33280
+        Vertices: 17010
+        Blendshapes:
+          []
+        Joints: 0
+  SourceHash: 89c7f41d533478596e4b540aba547d3d
+  FileHash: 39041d7b37e5ae83232d62c3fc93e534
+  NativePackageItems:
+    []
+- !<SceneObject/38383f5b-3e68-4924-b5b2-8632e13ba3a7>
+  PrefabRemaps:
+    []
+  Name: 10450_Rectangular_Grass_Patch_v1_iterations-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9d3e59de-d2e9-4dbd-9e00-8b0e00be4b27
+  Components:
+    []
+- !<SceneObject/9d3e59de-d2e9-4dbd-9e00-8b0e00be4b27>
+  PrefabRemaps:
+    []
+  Name: 10450_Rectangular_Grass_Patch_v1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a5ca5df1-96b3-40e9-8854-f8283dfc627d
+- !<RenderMeshVisual/a5ca5df1-96b3-40e9-8854-f8283dfc627d>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    []
+  Mesh: !<reference> 2b384597-8e5c-4cef-a341-deb183160f43
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

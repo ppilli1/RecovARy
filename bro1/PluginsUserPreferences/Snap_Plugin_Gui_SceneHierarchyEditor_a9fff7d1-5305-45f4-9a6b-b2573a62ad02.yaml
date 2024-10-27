@@ -1,0 +1,33 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 27
+    values:
+      - 0cb1cebd-1f5f-430a-b57b-c47b128c4645
+      - 123ef18f-1ddb-4fe4-bf7a-157c72dfd51f
+      - 1da7f812-08b9-4c7b-9b8b-996de47227b9
+      - 4005a1c8-076a-4759-abc7-73b3b28135f3
+      - 430ada45-8398-45f6-a513-8cb02465f6f9
+      - 4adc6f4b-f46e-4f48-a735-bb281e158496
+      - 505b4443-7f55-4928-90ab-86e27fb0fa97
+      - 5772ff9e-cf87-4b10-8d74-d9329635251a
+      - 5dc2c882-655c-4e06-9e64-e7099c3f7b6e
+      - 60f030ca-7f63-41ff-90f6-217ae9d80427
+      - 65119375-c44f-4915-a239-b0036b65f3c0
+      - 7692d1fc-6ab8-4f1a-bc6c-9909d0b2f09b
+      - 84d24c98-20f9-4c60-9cfd-055121cab5a7
+      - 966d4f79-d46a-4730-8da0-2addea680b0f
+      - 99075b90-78a8-4904-9d1c-96aadc490f11
+      - a677b29a-6a93-490a-8df1-19b2ca301293
+      - a762d926-e47e-4322-9d1d-1e20f558821f
+      - a9423c5f-85a1-4ff6-a8e7-40c8b9b88e84
+      - b8f09bfc-c5e3-4acf-9fb2-3d6df7a66e0f
+      - ccfcd7b3-7092-44cb-a951-e8f477545426
+      - d16639a2-796b-4562-a94f-09a8f36263e0
+      - e9139797-124f-449e-90ff-febfb4da1cfa
+      - eddc906d-3a62-4715-9e0f-c6d2913a974f
+      - f2bb482b-aad7-40f0-bb34-67d0c8ba15e9
+      - f852dbed-7b40-4ba4-a4b0-35ce409d097e
+      - f893e75e-952f-4a37-90c5-9feb09422ed0
+      - ffe425e3-557d-4e1d-824c-e5f378f4a39e
+  options: 4

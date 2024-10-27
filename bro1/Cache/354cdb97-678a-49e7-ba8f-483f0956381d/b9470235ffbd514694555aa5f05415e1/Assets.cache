@@ -1,0 +1,15 @@
+- !<AssetCache/b9470235-ffbd-5146-9455-5aa5f05415e1>
+  AssetFiles:
+    5e9e0bde-5e50-4466-adfb-f689122292da: 354cdb97-678a-49e7-ba8f-483f0956381d/b9470235ffbd514694555aa5f05415e1/Data/chair_color.png
+  AssetCurrentFiles:
+    5e9e0bde-5e50-4466-adfb-f689122292da: 354cdb97-678a-49e7-ba8f-483f0956381d/b9470235ffbd514694555aa5f05415e1/Data/Performance/Medium/chair_color.pvr
+  Assets:
+    - !<FileTexture/5e9e0bde-5e50-4466-adfb-f689122292da>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: b9470235ffbd514694555aa5f05415e1
+  FileHash: ce96b24d41e341f97effa3c0a69cc120
+  NativePackageItems:
+    []

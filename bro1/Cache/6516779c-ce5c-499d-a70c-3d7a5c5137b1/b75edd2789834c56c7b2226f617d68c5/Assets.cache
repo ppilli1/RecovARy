@@ -1,0 +1,15 @@
+- !<AssetCache/b75edd27-8983-4c56-c7b2-226f617d68c5>
+  AssetFiles:
+    13ff9d57-5e76-4f19-b12b-92029986f659: 6516779c-ce5c-499d-a70c-3d7a5c5137b1/b75edd2789834c56c7b2226f617d68c5/Data/ball_baseball_color.png
+  AssetCurrentFiles:
+    13ff9d57-5e76-4f19-b12b-92029986f659: 6516779c-ce5c-499d-a70c-3d7a5c5137b1/b75edd2789834c56c7b2226f617d68c5/Data/Performance/Medium/ball_baseball_color.pvr
+  Assets:
+    - !<FileTexture/13ff9d57-5e76-4f19-b12b-92029986f659>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: b75edd2789834c56c7b2226f617d68c5
+  FileHash: 0fb5e1cfda35c3e10cadd5b2bb2f31f0
+  NativePackageItems:
+    []

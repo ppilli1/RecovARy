@@ -1,0 +1,15 @@
+- !<AssetCache/4b049032-f0b3-0642-0aa5-a59f61ebb339>
+  AssetFiles:
+    c0cb738c-2a11-42f1-a95e-9b0716737fe4: fe10aeb8-46a3-4355-92af-ad1de96cdf20/4b049032f0b306420aa5a59f61ebb339/Data/table_dining_color.png
+  AssetCurrentFiles:
+    c0cb738c-2a11-42f1-a95e-9b0716737fe4: fe10aeb8-46a3-4355-92af-ad1de96cdf20/4b049032f0b306420aa5a59f61ebb339/Data/Performance/Medium/table_dining_color.pvr
+  Assets:
+    - !<FileTexture/c0cb738c-2a11-42f1-a95e-9b0716737fe4>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 4b049032f0b306420aa5a59f61ebb339
+  FileHash: 917d2785619f0eec4276930b594dbda2
+  NativePackageItems:
+    []

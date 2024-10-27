@@ -1,0 +1,18 @@
+- !<AssetCache/f25aacef-3956-95d7-6f8c-e0222af8097c>
+  AssetFiles:
+    ca918148-b637-4533-93a2-acfb4a242dc1: fb315f3a-b846-4dbd-a4fa-4a682f162767/f25aacef395695d76f8ce0222af8097c/Data/C_hockey_stick_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ca918148-b637-4533-93a2-acfb4a242dc1>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 128
+        Vertices: 140
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: f25aacef395695d76f8ce0222af8097c
+  FileHash: fc35ac24a3b7f1f64f55572515564a11
+  NativePackageItems:
+    []

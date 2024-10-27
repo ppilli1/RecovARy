@@ -1,0 +1,6 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 6e0c4dae-ec55-4c46-a3ec-4a0a84e30330: "C:/Users/StarN/Downloads/WallMaterial.jpg"
+    - 9f32b424-4e25-4304-98c8-4b2f99e2ec56: "C:/Users/StarN/Downloads/wallImage.jpg"
+  options: 4

@@ -1,0 +1,18 @@
+- !<AssetCache/d2bd619c-68b3-6f1a-fe92-713b6dbf8446>
+  AssetFiles:
+    e860fa64-6a1b-40c1-8b41-e12bb17b1a93: 2542b0d4-8339-4101-8ecc-8c3a875aac8b/d2bd619c68b36f1afe92713b6dbf8446/Data/L_karate_board.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e860fa64-6a1b-40c1-8b41-e12bb17b1a93>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 36
+        Vertices: 58
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d2bd619c68b36f1afe92713b6dbf8446
+  FileHash: 1448222cf44049e172a69ca55bd21d9f
+  NativePackageItems:
+    []

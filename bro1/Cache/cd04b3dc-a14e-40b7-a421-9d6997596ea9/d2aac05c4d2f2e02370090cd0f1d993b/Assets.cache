@@ -1,0 +1,15 @@
+- !<AssetCache/d2aac05c-4d2f-2e02-3700-90cd0f1d993b>
+  AssetFiles:
+    aa2f6580-1e57-48ee-8ee7-e8ada801aa0d: cd04b3dc-a14e-40b7-a421-9d6997596ea9/d2aac05c4d2f2e02370090cd0f1d993b/Data/table_color.png
+  AssetCurrentFiles:
+    aa2f6580-1e57-48ee-8ee7-e8ada801aa0d: cd04b3dc-a14e-40b7-a421-9d6997596ea9/d2aac05c4d2f2e02370090cd0f1d993b/Data/Performance/Medium/table_color.pvr
+  Assets:
+    - !<FileTexture/aa2f6580-1e57-48ee-8ee7-e8ada801aa0d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: d2aac05c4d2f2e02370090cd0f1d993b
+  FileHash: 006c34377578912f37b2ed4ba15f21ef
+  NativePackageItems:
+    []

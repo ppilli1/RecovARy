@@ -1,0 +1,18 @@
+- !<AssetCache/58331460-20ac-c504-db48-7f09e4695e41>
+  AssetFiles:
+    7460bcd1-fc91-43d1-b0c9-b3060bd6212d: 115d380f-0a92-43de-8ac0-e4ba17bf6c81/5833146020acc504db487f09e4695e41/Data/C_baseball_pitcher_mound_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/7460bcd1-fc91-43d1-b0c9-b3060bd6212d>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 234
+        Vertices: 165
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 5833146020acc504db487f09e4695e41
+  FileHash: 86b69e33371d0ada9de93cadefea10fe
+  NativePackageItems:
+    []

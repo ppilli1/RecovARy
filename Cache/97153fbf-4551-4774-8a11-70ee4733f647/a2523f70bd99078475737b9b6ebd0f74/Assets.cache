@@ -1,0 +1,18 @@
+- !<AssetCache/a2523f70-bd99-0784-7573-7b9b6ebd0f74>
+  AssetFiles:
+    a2191a23-ef98-4251-a175-254d09aa1172: 97153fbf-4551-4774-8a11-70ee4733f647/a2523f70bd99078475737b9b6ebd0f74/Data/C_snow_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/a2191a23-ef98-4251-a175-254d09aa1172>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 744
+        Vertices: 475
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: a2523f70bd99078475737b9b6ebd0f74
+  FileHash: 7eb0402d7e03e454d9f63ac8bd275bec
+  NativePackageItems:
+    []

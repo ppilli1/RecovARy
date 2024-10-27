@@ -1,0 +1,18 @@
+- !<AssetCache/331dfaaf-15bd-cd1b-d3b9-4cf7e15c7d46>
+  AssetFiles:
+    c1eff78a-f9ac-4820-8d2b-449581260f90: 37c07fd9-a328-4155-8b7d-06094c971d86/331dfaaf15bdcd1bd3b94cf7e15c7d46/Data/C_kayakPaddle_part_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/c1eff78a-f9ac-4820-8d2b-449581260f90>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 256
+        Vertices: 217
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 331dfaaf15bdcd1bd3b94cf7e15c7d46
+  FileHash: fc1b12c3eb9fb6fe9d9b9ad7b396e9e2
+  NativePackageItems:
+    []

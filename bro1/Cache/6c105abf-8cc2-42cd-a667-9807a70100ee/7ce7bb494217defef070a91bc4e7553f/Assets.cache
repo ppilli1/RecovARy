@@ -1,0 +1,15 @@
+- !<AssetCache/7ce7bb49-4217-defe-f070-a91bc4e7553f>
+  AssetFiles:
+    db5e52db-d48e-4b23-9e15-2d95ba35c28f: 6c105abf-8cc2-42cd-a667-9807a70100ee/7ce7bb494217defef070a91bc4e7553f/Data/tennis_racket_color.png
+  AssetCurrentFiles:
+    db5e52db-d48e-4b23-9e15-2d95ba35c28f: 6c105abf-8cc2-42cd-a667-9807a70100ee/7ce7bb494217defef070a91bc4e7553f/Data/Performance/Medium/tennis_racket_color.pvr
+  Assets:
+    - !<FileTexture/db5e52db-d48e-4b23-9e15-2d95ba35c28f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 7ce7bb494217defef070a91bc4e7553f
+  FileHash: 85445198ee8fe48eccf7b8d04606d4c5
+  NativePackageItems:
+    []

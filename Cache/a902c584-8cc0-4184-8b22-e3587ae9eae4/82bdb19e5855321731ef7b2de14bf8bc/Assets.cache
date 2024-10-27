@@ -1,0 +1,15 @@
+- !<AssetCache/82bdb19e-5855-3217-31ef-7b2de14bf8bc>
+  AssetFiles:
+    8dacc2b6-d0d3-48fa-9a4c-db85433a8725: a902c584-8cc0-4184-8b22-e3587ae9eae4/82bdb19e5855321731ef7b2de14bf8bc/Data/tee_baseball_color.png
+  AssetCurrentFiles:
+    8dacc2b6-d0d3-48fa-9a4c-db85433a8725: a902c584-8cc0-4184-8b22-e3587ae9eae4/82bdb19e5855321731ef7b2de14bf8bc/Data/Performance/Medium/tee_baseball_color.pvr
+  Assets:
+    - !<FileTexture/8dacc2b6-d0d3-48fa-9a4c-db85433a8725>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 82bdb19e5855321731ef7b2de14bf8bc
+  FileHash: 05a527e5146db44df371d8b4a3082ef2
+  NativePackageItems:
+    []

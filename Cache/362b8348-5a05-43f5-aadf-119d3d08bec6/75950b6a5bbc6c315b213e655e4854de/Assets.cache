@@ -1,0 +1,15 @@
+- !<AssetCache/75950b6a-5bbc-6c31-5b21-3e655e4854de>
+  AssetFiles:
+    ca57c674-3590-4dac-a7a4-ec30fbd45b17: 362b8348-5a05-43f5-aadf-119d3d08bec6/75950b6a5bbc6c315b213e655e4854de/Data/kayak_color.png
+  AssetCurrentFiles:
+    ca57c674-3590-4dac-a7a4-ec30fbd45b17: 362b8348-5a05-43f5-aadf-119d3d08bec6/75950b6a5bbc6c315b213e655e4854de/Data/Performance/Medium/kayak_color.pvr
+  Assets:
+    - !<FileTexture/ca57c674-3590-4dac-a7a4-ec30fbd45b17>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 75950b6a5bbc6c315b213e655e4854de
+  FileHash: a0e235178d566f0a6c03f4a99486cb1b
+  NativePackageItems:
+    []

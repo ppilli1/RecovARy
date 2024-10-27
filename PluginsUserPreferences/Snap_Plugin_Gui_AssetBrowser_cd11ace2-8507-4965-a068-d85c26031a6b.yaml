@@ -1,0 +1,695 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 689
+    values:
+      - Base 1.png
+      - Base.png
+      - Box.prefab
+      - Device Camera Texture.deviceCameraTexture
+      - Echopark.hdr
+      - Echopark.hdr/Diffuse
+      - Echopark.hdr/Specular
+      - Generator.prefab
+      - Generator.ts
+      - Generator1.ts
+      - Home Pack
+      - Home Pack/.hidden
+      - Home Pack/.hidden/bin.ss_graph
+      - Home Pack/Bitmoji Home Pack Resources
+      - Home Pack/Bitmoji Home Pack Resources/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Material/bin.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Meshes/C_bin_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/bin/Meshes/C_lid_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Material/chair.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/chair/Meshes/Box001.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Material/cooking_table.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/cooking_table/Meshes/Labtable.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Material/countertop_empty.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/countertop_empty/Meshes/C_countertop_empty_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Materials
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Materials/desk_MAT.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/C_desk_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer1_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer2_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer3_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/R_drawer4_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/R_drawer5_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/desk/Meshes/R_drawer6_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Material/ketchup_table.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/ketchup_table/Meshes/C_ketchupTable_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Material/nightstand.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Meshes/C_drawer_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/nightstand/Meshes/C_nightstand_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Material/picture_frame.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Meshes/C_frame_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/picture_frame/Meshes/C_picture_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Material/sofa.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/sofa/Meshes/C_sofa_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Material/stool.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool/Meshes/C_stool_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Material/stool_wooden.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/stool_wooden/Meshes/C_stool_wooden_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Material/labtable.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table/Meshes/C_Labtable_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Material
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Material/table_dining.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_dining/Meshes/C_Labtable_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Materials
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Materials/table_medium.mat
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/C_table_cloth_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/C_table_top_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg1_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg2_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg3_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Meshes/table_medium/Meshes/table_leg4_GEO.mesh
+      - Home Pack/Bitmoji Home Pack Resources/Textures
+      - Home Pack/Bitmoji Home Pack Resources/Textures/bin_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/chair_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/cooking_table_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/countertop_empty_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/desk_prop_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/ketchup_table_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/nightstand_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/picture_frame_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/sofa_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/stool_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/stool_wooden_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/table_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/table_dining_color.png
+      - Home Pack/Bitmoji Home Pack Resources/Textures/table_medium_color.png
+      - Home Pack/BitmojiHome__PLACE_IN_OBJECTS_PANEL.prefab
+      - MaterialParams.png
+      - Nature Pack/.hidden
+      - Nature Pack/.hidden/daffodil.ss_graph
+      - Nature Pack/.hidden/large_bouquet_flower_pink.ss_graph
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/daffodil
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/daffodil/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/daffodil/Material0/daffodil.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/daffodil/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/daffodil/Meshes/C_daffodil_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Material0/icerink.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Meshes/C_iceHole_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Meshes/C_ice_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Meshes/C_occluder_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Meshes/C_snow_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/icerink/Meshes/C_water_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/large_bouquet_flower
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/large_bouquet_flower/Materials
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/large_bouquet_flower/Materials/large_bouquet_flower_pink.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/large_bouquet_flower/Materials/large_bouquet_flower_white.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/large_bouquet_flower/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/large_bouquet_flower/Meshes/C_large_bouquet_flower_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick/Material0/stick.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick/Meshes/C_stickLower_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick/Meshes/C_stickUpper_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_kindle
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_kindle/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_kindle/Material0/stick_kindle.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_kindle/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_kindle/Meshes/C_stick_kindle_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_pile
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_pile/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_pile/Material0/stick_pile.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_pile/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stick_pile/Meshes/C_stick_pile_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stone
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stone/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stone/Material0/stone.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stone/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/stone/Meshes/C_stone_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tree_apple
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tree_apple/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tree_apple/Material0/tree_apple.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tree_apple/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tree_apple/Meshes/C_tree_apple_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tumbleweed
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tumbleweed/Material0
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tumbleweed/Material0/tumbleweed.mat
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tumbleweed/Meshes
+      - Nature Pack/Bitmoji Nature Pack Resources/Meshes/tumbleweed/Meshes/tumbleweed_GEO.mesh
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/daffodil_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/icerink_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/large_bouquet_flower_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/stick_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/stick_kindle_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/stick_pile_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/stone_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/tree_apple_color.png
+      - Nature Pack/Bitmoji Nature Pack Resources/Textures/tumbleweed_color.png
+      - Nature Pack/BitmojiNature__PLACE_IN_OBJECTS_PANEL.prefab
+      - Normal.png
+      - Object.prefab
+      - PBR 1.mat
+      - PBR 2.mat
+      - PBR.mat
+      - Physics Matter.matter
+      - Racket With Yellow Ball
+      - Racket With Yellow Ball/Racket And Ball__ADD_TO_SCENE.prefab
+      - Racket With Yellow Ball/Resources
+      - Racket With Yellow Ball/Resources/pingpong.fbx
+      - Racket With Yellow Ball/Resources/pingpong.fbx/.hidden
+      - Racket With Yellow Ball/Resources/pingpong.fbx/.hidden/ball orange
+      - Racket With Yellow Ball/Resources/pingpong.fbx/.hidden/white
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Materials
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Materials/ball orange
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Meshes
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Meshes/ball1
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Textures
+      - Racket With Yellow Ball/Resources/pingpong.fbx/Textures/table tennis ball 256x256 orange
+      - Racket With Yellow Ball/Resources/pingpong.fbx/pingpong
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free/source
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free/source/table tennis assets
+      - Racket With Yellow Ball/Resources/table-tennis-assets-free/source/table tennis assets/table tennis assets
+      - Racket With Yellow Ball/Resources/tocket.fbx
+      - Racket With Yellow Ball/Resources/tocket.fbx/.hidden
+      - Racket With Yellow Ball/Resources/tocket.fbx/.hidden/bat
+      - Racket With Yellow Ball/Resources/tocket.fbx/.hidden/white
+      - Racket With Yellow Ball/Resources/tocket.fbx/Materials
+      - Racket With Yellow Ball/Resources/tocket.fbx/Materials/bat
+      - Racket With Yellow Ball/Resources/tocket.fbx/Meshes
+      - Racket With Yellow Ball/Resources/tocket.fbx/Meshes/bat1
+      - Racket With Yellow Ball/Resources/tocket.fbx/Textures
+      - Racket With Yellow Ball/Resources/tocket.fbx/Textures/bat 1024x1024 color
+      - Racket With Yellow Ball/Resources/tocket.fbx/Textures/bat 1024x1024 normal
+      - Racket With Yellow Ball/Resources/tocket.fbx/tocket
+      - Remote Service Module.remoteServiceModule
+      - Render Target.renderTarget
+      - Scene.scene
+      - SpectaclesInteractionKit/Assets/Audio
+      - SpectaclesInteractionKit/Assets/Audio/HoverAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Audio/TriggerEndAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Audio/TriggerStartAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/PaintedGlow_Left.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/PaintedGlow_Right.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/RadialGradientOcclusion.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/TipGlowMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/BitmojiMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/ContainerImageMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/LogoMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/NormalBasedTargetOutline.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonDarkInactive.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonDarkRadial.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOffIcon.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnDefault.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnIcon.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnSelect.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScaleBasedTargetOutline.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScrollBarButton.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScrollBarSlider.mat
+      - SpectaclesInteractionKit/Assets/Materials/SimplePBRMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonDarkDefault.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonOnSelect.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/SliderMat.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/TargetOutlineMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/SpritePreset.mat
+      - SpectaclesInteractionKit/Assets/Materials/TargetOutlineMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/Text3DDefault.mat
+      - SpectaclesInteractionKit/Assets/Materials/Uber Unlit.mat
+      - SpectaclesInteractionKit/Assets/Materials/uber_unlit.ss_graph
+      - SpectaclesInteractionKit/Assets/Meshes
+      - SpectaclesInteractionKit/Assets/Meshes/BoxMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ButtonCapsuleMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ButtonSphereMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/Check.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/LeftHandMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlaneMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/RightHandMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ScrollBarSlider.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SliderSphereKnob.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SliderTrack.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SnapGhost_Mesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SphereMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/Uncheck.mesh
+      - SpectaclesInteractionKit/Assets/Shaders
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/PaintedGlow_Left.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/PaintedGlow_Right.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/RadialGradientOcclusion.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/TipGlowMaterial.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/NormalBasedTargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PinchButton-ActiveOrInActive.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PinchDarkRadial.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ScaleBasedTargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ScrollBarSlider.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders/PinchButton-Default.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders/Slider.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SpritePreset.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/TargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/Text3DDefault.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ToggleOff.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ToggleOn.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ToggleOnSelect.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/simple_pbr.ss_graph
+      - SpectaclesInteractionKit/Assets/Textures
+      - SpectaclesInteractionKit/Assets/Textures/2DBitmojiAvatar.png
+      - SpectaclesInteractionKit/Assets/Textures/Base.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/Glow.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshPinchTexture.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshTapTexture.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/occlusionGradient.png
+      - SpectaclesInteractionKit/Assets/Textures/MaterialParams.png
+      - SpectaclesInteractionKit/Assets/Textures/Normal.png
+      - SpectaclesInteractionKit/Assets/Textures/Rectangle.png
+      - SpectaclesInteractionKit/Assets/Textures/SIKContainerExampleImage.jpg
+      - SpectaclesInteractionKit/Assets/Textures/SIKLogo.png
+      - SpectaclesInteractionKit/Assets/Textures/ScrollBarRectangle.png
+      - SpectaclesInteractionKit/Components
+      - SpectaclesInteractionKit/Components/Helpers
+      - SpectaclesInteractionKit/Components/Helpers/CapsuleMeshCustomizer.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableAudioFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableColorFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableOutlineFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableSquishFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/ScreenTransformAdapter.ts
+      - SpectaclesInteractionKit/Components/Helpers/SliderFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/ToggleFeedback.ts
+      - SpectaclesInteractionKit/Components/Interaction
+      - SpectaclesInteractionKit/Components/Interaction/Billboard
+      - SpectaclesInteractionKit/Components/Interaction/Billboard/Billboard.ts
+      - SpectaclesInteractionKit/Components/Interaction/Billboard/BillboardController.ts
+      - SpectaclesInteractionKit/Components/Interaction/Billboard/BillboardRotationCalculator.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/GlowEffectView.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/GlowEffectViewModel.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/HandVisual.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/RadialOcclusionView.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/Headlock.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockController.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockRotationCalculator.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockTranslationCalculator.ts
+      - SpectaclesInteractionKit/Components/Interaction/Interactable
+      - SpectaclesInteractionKit/Components/Interaction/Interactable/Interactable.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractableManipulation
+      - SpectaclesInteractionKit/Components/Interaction/InteractableManipulation/InteractableManipulation.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CircleVisual.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Cursor.mat
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorController.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorMat.ss_graph
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorViewModel.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/InteractorCursor.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMat.ss_graph
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMaterial.mat
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Plane.mesh
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/disabled.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tl.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tr.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/translate.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMat.ss_graph
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMaterial.mat
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineRenderer.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineVisual.ts
+      - SpectaclesInteractionKit/Components/UI
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/ContainerFrame.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Image.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Label.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/flat.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_High.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_Mid.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SphereButton.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SysSettings_settings_button.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/pinch-depth-button.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/FramePrefab.prefab
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/container-button.prefab
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/README.md
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon-1.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/container-button-matcap.jpg
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-black.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white-shadow.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1-cube.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1.jpg
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/soft-reflection.jpg
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/container-ui.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/CursorHandler.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/ForceContainerParent.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/FrameInputHandler.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/HoverBehavior.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/LabeledPinchButton.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual/SimpleLODRenderMeshVisual.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SmoothFollow.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SnappableBehavior.ts
+      - SpectaclesInteractionKit/Components/UI/PinchButton
+      - SpectaclesInteractionKit/Components/UI/PinchButton/PinchButton.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollBar
+      - SpectaclesInteractionKit/Components/UI/ScrollBar/ScrollBar.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView
+      - SpectaclesInteractionKit/Components/UI/ScrollView/GridContentCreator.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/ScrollArea.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/ScrollProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/ScrollView.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/BoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/BufferedBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/SceneObjectBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/ScreenTransformBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/VisualBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/Slider
+      - SpectaclesInteractionKit/Components/UI/Slider/Slider.ts
+      - SpectaclesInteractionKit/Components/UI/ToggleButton
+      - SpectaclesInteractionKit/Components/UI/ToggleButton/ToggleButton.ts
+      - SpectaclesInteractionKit/Core
+      - SpectaclesInteractionKit/Core/ConfigurationValidator
+      - SpectaclesInteractionKit/Core/ConfigurationValidator/ConfigurationValidator.ts
+      - SpectaclesInteractionKit/Core/HandInteractor
+      - SpectaclesInteractionKit/Core/HandInteractor/HandInteractor.ts
+      - SpectaclesInteractionKit/Core/InteractionManager
+      - SpectaclesInteractionKit/Core/InteractionManager/EventDispatcher.ts
+      - SpectaclesInteractionKit/Core/InteractionManager/InteractionManager.ts
+      - SpectaclesInteractionKit/Core/Interactor
+      - SpectaclesInteractionKit/Core/Interactor/BaseInteractor.ts
+      - SpectaclesInteractionKit/Core/Interactor/ColliderTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/DirectTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/DragProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/HandRayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/IndirectTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/Interactor.ts
+      - SpectaclesInteractionKit/Core/Interactor/InteractorEvent.ts
+      - SpectaclesInteractionKit/Core/Interactor/MobileRayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/MouseTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/PokeTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/RayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/TouchRayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/AxisAngle.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/ContinousIrInteractionTransition.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/IrInteractionTransition.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/PinchJumpSuppressor.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastAnchorHead.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastAnchorVariableShoulder.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastBase.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastLegacySingleCamera.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastProxy.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RgbIrTransitionJumpSuppressor.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/SwitchIrInteractionTransition.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimeDataContainer.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimeScalarContainer.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimedVec2Container.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimedVec3Container.ts
+      - SpectaclesInteractionKit/Core/LogLevelConfiguration
+      - SpectaclesInteractionKit/Core/LogLevelConfiguration/LogLevelConfiguration.ts
+      - SpectaclesInteractionKit/Core/LogLevelConfiguration/SIKLogLevelConfiguration.ts
+      - SpectaclesInteractionKit/Core/MobileInteractor
+      - SpectaclesInteractionKit/Core/MobileInteractor/MobileInteractor.ts
+      - SpectaclesInteractionKit/Core/MouseInteractor
+      - SpectaclesInteractionKit/Core/MouseInteractor/MouseInteractor.ts
+      - SpectaclesInteractionKit/Declarations
+      - SpectaclesInteractionKit/Declarations/requireAssetDeclaration.d.ts
+      - SpectaclesInteractionKit/Decorators
+      - SpectaclesInteractionKit/Decorators/Singleton.ts
+      - SpectaclesInteractionKit/Prefabs
+      - SpectaclesInteractionKit/Prefabs/ScrollViewListItem.prefab
+      - SpectaclesInteractionKit/Prefabs/SpectaclesInteractionKit.prefab
+      - SpectaclesInteractionKit/Providers
+      - SpectaclesInteractionKit/Providers/CameraProvider
+      - SpectaclesInteractionKit/Providers/CameraProvider/BaseWorldCameraProvider.ts
+      - SpectaclesInteractionKit/Providers/CameraProvider/CameraProvider.ts
+      - SpectaclesInteractionKit/Providers/CameraProvider/WorldCameraFinderProvider.ts
+      - SpectaclesInteractionKit/Providers/CursorControllerProvider
+      - SpectaclesInteractionKit/Providers/CursorControllerProvider/CursorControllerProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData
+      - SpectaclesInteractionKit/Providers/HandInputData/BaseHand.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/DefaultHandTrackingAssetProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/GestureModuleProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection/PalmTapDetector.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection/PalmTapDetectorStateMachine.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetectionEvent.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapEvent.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/HciPinchDetectionStrategy.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/HeuristicPinchDetectionStrategy.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/PinchDetectionStrategy.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/PinchDetector.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/PinchDetectorStateMachine.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchEventType.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandInputData.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandTrackingAssetProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandType.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandVisuals.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/Joints.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/Keypoint.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/LandmarkNames.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/LeftHandAsset.handTracking3D
+      - SpectaclesInteractionKit/Providers/HandInputData/RightHandAsset.handTracking3D
+      - SpectaclesInteractionKit/Providers/HandInputData/TargetingData.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/TrackedHand.ts
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/InteractionConfigurationProvider.ts
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/LogLevelProvider.ts
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/SIKLogLevelProvider.ts
+      - SpectaclesInteractionKit/Providers/MobileInputData
+      - SpectaclesInteractionKit/Providers/MobileInputData/MobileInputData.ts
+      - SpectaclesInteractionKit/Providers/TargetProvider
+      - SpectaclesInteractionKit/Providers/TargetProvider/TargetProvider.ts
+      - SpectaclesInteractionKit/Providers/TargetProvider/TargetingData.ts
+      - SpectaclesInteractionKit/SIK.ts
+      - SpectaclesInteractionKit/Utils
+      - SpectaclesInteractionKit/Utils/BistableThreshold.ts
+      - SpectaclesInteractionKit/Utils/Event.ts
+      - SpectaclesInteractionKit/Utils/Filter.ts
+      - SpectaclesInteractionKit/Utils/InputChecker.ts
+      - SpectaclesInteractionKit/Utils/InspectorCallbacks.ts
+      - SpectaclesInteractionKit/Utils/LensConfig.ts
+      - SpectaclesInteractionKit/Utils/LogLevel.ts
+      - SpectaclesInteractionKit/Utils/MovingAverageFilter.ts
+      - SpectaclesInteractionKit/Utils/NativeLogger.ts
+      - SpectaclesInteractionKit/Utils/OneEuroFilter.ts
+      - SpectaclesInteractionKit/Utils/ReplayEvent.ts
+      - SpectaclesInteractionKit/Utils/SafeReference.ts
+      - SpectaclesInteractionKit/Utils/SampleOps.ts
+      - SpectaclesInteractionKit/Utils/SceneObjectUtils.ts
+      - SpectaclesInteractionKit/Utils/SeededRandomNumberGenerator.ts
+      - SpectaclesInteractionKit/Utils/Spatial.ts
+      - SpectaclesInteractionKit/Utils/State.ts
+      - SpectaclesInteractionKit/Utils/StateMachine.ts
+      - SpectaclesInteractionKit/Utils/UpdateDispatcher.ts
+      - SpectaclesInteractionKit/Utils/aabb.ts
+      - SpectaclesInteractionKit/Utils/algorithms.ts
+      - SpectaclesInteractionKit/Utils/animate.ts
+      - SpectaclesInteractionKit/Utils/color.ts
+      - SpectaclesInteractionKit/Utils/debounce.ts
+      - SpectaclesInteractionKit/Utils/lazyProperty.ts
+      - SpectaclesInteractionKit/Utils/logger.ts
+      - SpectaclesInteractionKit/Utils/mathUtils.ts
+      - SpectaclesInteractionKit/Utils/springAnimate.ts
+      - SpectaclesInteractionKit/Utils/views
+      - SpectaclesInteractionKit/Utils/views/LineRenderer
+      - SpectaclesInteractionKit/Utils/views/LineRenderer/LineMeshUtils.ts
+      - SpectaclesInteractionKit/Utils/views/LineRenderer/LineRenderer.ts
+      - SpectaclesInteractionKit/Utils/views/MeshView.ts
+      - SpectaclesInteractionKit/Utils/views/View.ts
+      - SpectaclesInteractionKit/package.native
+      - Sports Pack
+      - Sports Pack/.hidden
+      - Sports Pack/.hidden/baseball.ss_graph
+      - Sports Pack/Bitmoji Sports Pack Resourcres
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Material/baseball.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ball_baseball/Meshes/C_ballBaseball_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/baseball_pitcher
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/baseball_pitcher/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/baseball_pitcher/Material/baseball_pitcher.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/baseball_pitcher/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/baseball_pitcher/Meshes/C_baseball_pitcher_mound_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/bat_baseball
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/bat_baseball/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/bat_baseball/Material/bat_baseball.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/bat_baseball/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/bat_baseball/Meshes/C_bat_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Material/boomerang.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/boomerang/Meshes/C_boomerang_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Material/curling_stone.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes/C_curling_stoneBlue_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/curling_stone/Meshes/C_curling_stoneRed_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_puck
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_puck/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_puck/Material/hockey_puck.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_puck/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_puck/Meshes/C_hockey_puck_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_stick
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_stick/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_stick/Material/hockey_stick.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_stick/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/hockey_stick/Meshes/C_hockey_stick_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board/Material/karate_board.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board/Meshes/L_karate_board.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board/Meshes/R_karate_board.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_holder
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_holder/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_holder/Material/karate_board_holder.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_holder/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_holder/Meshes/C_karate_board_holder_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_pile
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_pile/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_pile/Material/karate_board_pile.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_pile/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/karate_board_pile/Meshes/C_karate_board_pile_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak/Material/kayak.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak/Meshes/C_kayak_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak/Meshes/C_kayak_hole_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak_paddle
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak_paddle/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak_paddle/Material/kayak_paddle.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak_paddle/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak_paddle/Meshes/C_kayakPaddle_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/kayak_paddle/Meshes/C_kayakPaddle_part_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/skeleton_sled
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/skeleton_sled/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/skeleton_sled/Material/skeleton_sled.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/skeleton_sled/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/skeleton_sled/Meshes/C_sled_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ski_poles
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ski_poles/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ski_poles/Material/ski_poles.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ski_poles/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/ski_poles/Meshes/C_skipoles_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/stadium_seat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/stadium_seat/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/stadium_seat/Material/stadium_seat.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/stadium_seat/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/stadium_seat/Meshes/C_stadium_seat_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Material/tee_baseball.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tee_baseball/Meshes/C_tee_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Material/tennis_ball.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/C_tennis_ball_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/MeshMaterial 1.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/MeshMaterial 2.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/MeshMaterial 3.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/MeshMaterial 4.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_ball/Meshes/MeshMaterial.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_racket
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_racket/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_racket/Material/tennis_racket.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_racket/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_racket/Meshes/C_tennis_racket_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/tennis_racket/Meshes/MeshMaterial.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/trekking_pole
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/trekking_pole/Material
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/trekking_pole/Material/trekking_pole.mat
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/trekking_pole/Meshes
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Meshes/trekking_pole/Meshes/C_trekkingPole_GEO.mesh
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/ball_baseball_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/baseball_pitcher.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/bat_baseball_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/boomerang_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/curling_stone_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/hockey_puck_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/hockey_stick_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/karate_board_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/karate_board_holder_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/karate_board_pile_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/kayak_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/kayak_paddle_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/skeleton_sled_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/ski_poles_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/stadium_seat_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/tee_baseball_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/tennis_ball_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/tennis_racket_color.png
+      - Sports Pack/Bitmoji Sports Pack Resourcres/Textures/trekking_pole_color.png
+      - Sports Pack/BitmojiSports__PLACE_IN_OBJECTS_PANEL.prefab
+      - TennisBall 1.prefab
+      - TennisBall.prefab
+      - Untitled JavaScript.js
+      - Yellow Ball.prefab
+      - pbr 1.ss_graph
+      - pbr 2.ss_graph
+      - pbr.ss_graph
+      - power.js
+      - simple_pbr.ss_graph
+      - table_dining 1.mat
+      - wallImage.jpg
+  options: 4

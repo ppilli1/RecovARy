@@ -1,0 +1,15 @@
+- !<AssetCache/4ff025e0-8017-b4b7-7de4-131f8f1c8cc9>
+  AssetFiles:
+    eba52e32-835a-4b90-9f90-442987d0b839: ff470f05-a7b7-4e5f-9bef-c68e2d718ca4/4ff025e08017b4b77de4131f8f1c8cc9/Data/bat_baseball_color.png
+  AssetCurrentFiles:
+    eba52e32-835a-4b90-9f90-442987d0b839: ff470f05-a7b7-4e5f-9bef-c68e2d718ca4/4ff025e08017b4b77de4131f8f1c8cc9/Data/Performance/Medium/bat_baseball_color.pvr
+  Assets:
+    - !<FileTexture/eba52e32-835a-4b90-9f90-442987d0b839>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 4ff025e08017b4b77de4131f8f1c8cc9
+  FileHash: 2dcde330e06275466a96f4df87bfa1b2
+  NativePackageItems:
+    []

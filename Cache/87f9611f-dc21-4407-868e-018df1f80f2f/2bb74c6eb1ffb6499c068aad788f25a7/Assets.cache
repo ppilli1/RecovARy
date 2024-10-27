@@ -1,0 +1,18 @@
+- !<AssetCache/2bb74c6e-b1ff-b649-9c06-8aad788f25a7>
+  AssetFiles:
+    4080220e-ac3e-40e1-82d8-2e2d024c4b34: 87f9611f-dc21-4407-868e-018df1f80f2f/2bb74c6eb1ffb6499c068aad788f25a7/Data/C_sled_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/4080220e-ac3e-40e1-82d8-2e2d024c4b34>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 684
+        Vertices: 776
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 2bb74c6eb1ffb6499c068aad788f25a7
+  FileHash: 8fe941c03a717b8f3fee749f616f7154
+  NativePackageItems:
+    []

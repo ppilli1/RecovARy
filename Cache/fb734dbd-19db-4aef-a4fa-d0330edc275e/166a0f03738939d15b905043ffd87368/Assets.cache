@@ -1,0 +1,15 @@
+- !<AssetCache/166a0f03-7389-39d1-5b90-5043ffd87368>
+  AssetFiles:
+    7028b822-d408-4444-925b-d9926086fd83: fb734dbd-19db-4aef-a4fa-d0330edc275e/166a0f03738939d15b905043ffd87368/Data/tree_apple_color.png
+  AssetCurrentFiles:
+    7028b822-d408-4444-925b-d9926086fd83: fb734dbd-19db-4aef-a4fa-d0330edc275e/166a0f03738939d15b905043ffd87368/Data/Performance/Medium/tree_apple_color.pvr
+  Assets:
+    - !<FileTexture/7028b822-d408-4444-925b-d9926086fd83>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 166a0f03738939d15b905043ffd87368
+  FileHash: aca29723257833ff452e34d4d963cb35
+  NativePackageItems:
+    []

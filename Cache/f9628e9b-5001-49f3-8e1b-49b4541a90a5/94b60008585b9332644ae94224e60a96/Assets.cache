@@ -1,0 +1,15 @@
+- !<AssetCache/94b60008-585b-9332-644a-e94224e60a96>
+  AssetFiles:
+    6bf0e4b0-295c-43ee-9120-33a4afa5c090: f9628e9b-5001-49f3-8e1b-49b4541a90a5/94b60008585b9332644ae94224e60a96/Data/daffodil_color.png
+  AssetCurrentFiles:
+    6bf0e4b0-295c-43ee-9120-33a4afa5c090: f9628e9b-5001-49f3-8e1b-49b4541a90a5/94b60008585b9332644ae94224e60a96/Data/Performance/Medium/daffodil_color.pvr
+  Assets:
+    - !<FileTexture/6bf0e4b0-295c-43ee-9120-33a4afa5c090>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 94b60008585b9332644ae94224e60a96
+  FileHash: 7cf39653ff8a0095a9427e991f4a5016
+  NativePackageItems:
+    []

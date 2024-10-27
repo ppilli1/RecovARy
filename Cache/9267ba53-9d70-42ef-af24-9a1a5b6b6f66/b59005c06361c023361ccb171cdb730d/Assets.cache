@@ -1,0 +1,15 @@
+- !<AssetCache/b59005c0-6361-c023-361c-cb171cdb730d>
+  AssetFiles:
+    19619c4d-cf57-4599-8bfa-17c6cb34db3c: 9267ba53-9d70-42ef-af24-9a1a5b6b6f66/b59005c06361c023361ccb171cdb730d/Data/tennis_ball_color.png
+  AssetCurrentFiles:
+    19619c4d-cf57-4599-8bfa-17c6cb34db3c: 9267ba53-9d70-42ef-af24-9a1a5b6b6f66/b59005c06361c023361ccb171cdb730d/Data/Performance/Medium/tennis_ball_color.pvr
+  Assets:
+    - !<FileTexture/19619c4d-cf57-4599-8bfa-17c6cb34db3c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: b59005c06361c023361ccb171cdb730d
+  FileHash: 17b573768191ce0a6b1327ef0325d491
+  NativePackageItems:
+    []

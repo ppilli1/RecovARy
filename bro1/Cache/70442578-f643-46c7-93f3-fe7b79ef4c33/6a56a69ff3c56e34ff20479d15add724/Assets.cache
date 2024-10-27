@@ -1,0 +1,71 @@
+- !<AssetCache/0dc9856b-e523-5b48-01a0-b62a8ddf954b>
+  AssetFiles:
+    d3f8dfb9-9aa5-4eb2-adaf-08744e54f8ba: 70442578-f643-46c7-93f3-fe7b79ef4c33/6a56a69ff3c56e34ff20479d15add724/Data/Empty.ss_graph
+  AssetCurrentFiles:
+    d3f8dfb9-9aa5-4eb2-adaf-08744e54f8ba: 70442578-f643-46c7-93f3-fe7b79ef4c33/6a56a69ff3c56e34ff20479d15add724/Data/Empty.ss_graph
+  Assets:
+    - !<ShaderGraphPass/d3f8dfb9-9aa5-4eb2-adaf-08744e54f8ba>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor_N004:
+          typeIdx: 5
+          value: {x: 0.533333, y: 0.533333, z: 0.533333, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData/6118e5ac-ae0e-4256-8d8e-d41b2c2ebbcd>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+      ShaderPath: 70442578-f643-46c7-93f3-fe7b79ef4c33/6a56a69ff3c56e34ff20479d15add724/Data/242fadd/Empty.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 6a56a69ff3c56e34ff20479d15add724
+  FileHash: a8eacff5184be9d7f66d0e81a5676f46
+  NativePackageItems:
+    []

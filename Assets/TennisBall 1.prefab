@@ -1,0 +1,65 @@
+- !<ObjectPrefab/959c1065-0ac3-41ca-9b7c-0d336ceaba62>
+  PackagePath: ""
+  objects:
+    - !<own> e6aff7a7-bcaf-41b4-9d66-ecd234a4cdc0
+  LazyLoading: false
+  RetainAssets: true
+- !<BodyComponent/3cb7db75-047b-4a9a-a8ff-8d1dc4eeb5d1>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: true
+    Radius: 6.000000
+  Matter: !<reference> b6b5075b-d7b4-4750-9f1a-db34987abd9c
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 0.000100
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<RenderMeshVisual/41b16f0a-42de-4142-9a67-981d7ace1067>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9c9f5c8a-e607-42a1-b1d8-75398cc7e532
+  Mesh: !<reference> 9501feee-2a96-40d8-b82b-6cea21a04f07
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e6aff7a7-bcaf-41b4-9d66-ecd234a4cdc0>
+  PrefabRemaps:
+    []
+  Name: TennisBall
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 17.259293, z: -104.106102}
+    rotation: {x: 0.000000, y: -0.000016, z: 0.000000}
+    scale: {x: 6.000000, y: 6.000000, z: 6.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 41b16f0a-42de-4142-9a67-981d7ace1067
+    - !<own> 3cb7db75-047b-4a9a-a8ff-8d1dc4eeb5d1

@@ -1,0 +1,15 @@
+- !<AssetCache/e3e0ebfa-1a97-4047-9d9d-7e0c88d58d4a>
+  AssetFiles:
+    7d4aa360-fca1-483b-b4da-56ad651f7122: 3f974311-6836-4e23-ba03-0ed653e72a13/e3e0ebfa1a9740479d9d7e0c88d58d4a/Data/boomerang_color.png
+  AssetCurrentFiles:
+    7d4aa360-fca1-483b-b4da-56ad651f7122: 3f974311-6836-4e23-ba03-0ed653e72a13/e3e0ebfa1a9740479d9d7e0c88d58d4a/Data/Performance/Medium/boomerang_color.pvr
+  Assets:
+    - !<FileTexture/7d4aa360-fca1-483b-b4da-56ad651f7122>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: e3e0ebfa1a9740479d9d7e0c88d58d4a
+  FileHash: 350379080f91cd36ac23d1295fafe4a3
+  NativePackageItems:
+    []

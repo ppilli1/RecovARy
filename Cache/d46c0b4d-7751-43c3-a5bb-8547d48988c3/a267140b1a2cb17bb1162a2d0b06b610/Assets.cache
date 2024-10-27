@@ -1,0 +1,18 @@
+- !<AssetCache/a267140b-1a2c-b17b-b116-2a2d0b06b610>
+  AssetFiles:
+    bb962238-f58c-4d5e-9bad-19e227dc5eeb: d46c0b4d-7751-43c3-a5bb-8547d48988c3/a267140b1a2cb17bb1162a2d0b06b610/Data/C_hockey_puck_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/bb962238-f58c-4d5e-9bad-19e227dc5eeb>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 80
+        Vertices: 84
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: a267140b1a2cb17bb1162a2d0b06b610
+  FileHash: 5d8b69dc2bd4f4da34611a35863dda00
+  NativePackageItems:
+    []

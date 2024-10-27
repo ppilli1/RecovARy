@@ -1,0 +1,168 @@
+- !<AssetImportMetadata/92987cda-74d0-4c51-b470-85df7db2ad45>
+  ImportedAssetIds:
+    .hidden/ball orange: !<reference> 417461e7-2014-4395-be71-0b156d3aff75
+    .hidden/white: !<reference> 6ccb564d-c3cc-45dc-bea1-3efaf6889693
+    49dbee68ce438986: !<reference> 06e56e02-5c2c-4c6d-9cb8-4f4458c07d13
+    683ba510dfc8b870: !<reference> a30c180a-3900-49ba-a188-c662fd8dab00
+    7a0dd5cd69df73fa: !<reference> 679854e2-4603-402a-97f1-30a8689d9a3d
+    Materials/ball orange: !<reference> 60c11cd3-7638-43a7-be73-89a0112e765b
+    Materials/ball orange|ball orange|GraphPassInfo: !<reference> 4fd6b3e0-afda-4147-9500-c29fdee86ffb
+    Meshes/ball1: !<reference> 9501feee-2a96-40d8-b82b-6cea21a04f07
+    Scene: !<reference> 5f894098-a9f3-4384-9003-32dccafea5d4
+    Textures/table tennis ball 256x256 orange: !<reference> 44159873-c491-491c-8d92-5a91a369d1ce
+    da1fe61492d84a34: !<reference> 2dd8337b-d916-4280-b813-081bd356da04
+    e1647d29159fd4ee: !<reference> d923dc1b-59d2-4163-b991-b236efae45b0
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> 5f894098-a9f3-4384-9003-32dccafea5d4
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> f692ac39-4fc2-4b12-a25f-2398cb0e2630
+  DependentFiles:
+    - table-tennis-assets-free/source/table tennis assets/table tennis assets/table tennis ball 256x256 orange.png
+  ImporterSettings: !<FbxImporterSettings/3bab0bf8-c0cf-4b27-a756-4186d7e363b5>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategory
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings/d22d4c9d-46e1-4b73-8cf4-76cbcc3c878c>
+    Presets:
+      None Compression: !<SingleCompressionSettings/d434c62c-8f97-4008-82e4-4c9e4222653f>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings/2dd48631-6dc4-425f-a40a-2833af0d82e9>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/51fcfd0a-de11-4d88-873f-807074f22826>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<ObjectPrefab/20be7fe2-555f-4b92-a48c-af97b8844977>
+  PackagePath: ""
+  objects:
+    - !<own> 72a545e8-5723-4b67-80b8-4d2dabf97ae5
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/32755688-5fa8-4e65-9819-81295baa389f>
+  PrefabRemaps:
+    []
+  Name: Light
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 407.624542, y: 590.386230, z: -100.545395}
+    rotation: {x: -132.466431, y: 72.779228, z: -169.256332}
+    scale: {x: 100.000008, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dbe0f1df-213f-4b41-97b0-732cc87aacb9
+- !<SceneObject/72a545e8-5723-4b67-80b8-4d2dabf97ae5>
+  PrefabRemaps:
+    []
+  Name: pingpong
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 32755688-5fa8-4e65-9819-81295baa389f
+    - !<own> ae39c56b-f63b-4b0f-b1a9-9ad5d8e69109
+  Components:
+    []
+- !<SceneObject/ae39c56b-f63b-4b0f-b1a9-9ad5d8e69109>
+  PrefabRemaps:
+    []
+  Name: ball1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -52.551746, y: 61.473328, z: 0.594303}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 39.504898, y: 39.504898, z: 39.504898}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b614486c-f702-4a1b-9ba1-3d94181a02b4
+- !<RenderMeshVisual/b614486c-f702-4a1b-9ba1-3d94181a02b4>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 60c11cd3-7638-43a7-be73-89a0112e765b
+  Mesh: !<reference> 9501feee-2a96-40d8-b82b-6cea21a04f07
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<LightSource/dbe0f1df-213f-4b41-97b0-732cc87aacb9>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  renderLayer: 1
+  LightType: Point
+  Intensity: 10.000000
+  CastShadows: false
+  ShadowDensity: 1.000000
+  ShadowBlurRadius: 0.000000
+  ShadowTextureSize: 512
+  AutoLightSourcePosition: false
+  AutoShadowFrustumSize: false
+  AutoShadowFrustumSizeExtend: 2.000000
+  ShadowFrustumSize: 30.000000
+  ShadowFrustumNearClipPlane: 1.000000
+  ShadowFrustumFarClipPlane: 1000.000000
+  UseEnvMapFromCamera: false
+  EnvMapFromCameraMode: Auto
+  UseEstimation: false
+  EstimationIntensity: 1.000000
+  EstimationSharpness: 1.000000
+  EnvMapExposure: 1.000000
+  EnvMapRotation: 0.000000
+  DiffuseEnvTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  SpecularEnvTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+  DynamicEnvInputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  InnerConeAngle: 0.000000
+  OuterConeAngle: 1.000000
+  DecayType: None
+  DecayLimit: false
+  DecayRange: 1.000000
+- !<ObjectPrefabAssetData/f692ac39-4fc2-4b12-a25f-2398cb0e2630>
+  SourceRemaps:
+    - 012190b7-668d-4cce-868b-7a9c7c88136e: ae39c56b-f63b-4b0f-b1a9-9ad5d8e69109
+    - 7f3c91ab-a79d-4d28-83b4-d9bbd547b6c9: 32755688-5fa8-4e65-9819-81295baa389f
+    - d7704c2e-57b4-4ac9-ad0b-d3f038b3f007: dbe0f1df-213f-4b41-97b0-732cc87aacb9
+    - e14c834b-72ec-4213-b1bf-f55d1a7e8465: 72a545e8-5723-4b67-80b8-4d2dabf97ae5
+    - f5b393c5-026d-4c93-b613-ec91f2762cd2: b614486c-f702-4a1b-9ba1-3d94181a02b4
+  SourceState: !<own> 20be7fe2-555f-4b92-a48c-af97b8844977

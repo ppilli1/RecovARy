@@ -1,0 +1,15 @@
+- !<AssetCache/60f020ff-6429-3ad6-c34c-b53fcbcf1fe2>
+  AssetFiles:
+    579e7b31-591a-4fc5-924c-e002e33d236b: a22462ce-70df-492d-b283-82d137f8d472/60f020ff64293ad6c34cb53fcbcf1fe2/Data/curling_stone_color.png
+  AssetCurrentFiles:
+    579e7b31-591a-4fc5-924c-e002e33d236b: a22462ce-70df-492d-b283-82d137f8d472/60f020ff64293ad6c34cb53fcbcf1fe2/Data/Performance/Medium/curling_stone_color.pvr
+  Assets:
+    - !<FileTexture/579e7b31-591a-4fc5-924c-e002e33d236b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 60f020ff64293ad6c34cb53fcbcf1fe2
+  FileHash: 9a00be65541e5b7a1d211e91554f9da2
+  NativePackageItems:
+    []

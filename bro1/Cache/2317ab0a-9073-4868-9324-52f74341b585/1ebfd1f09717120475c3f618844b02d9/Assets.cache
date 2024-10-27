@@ -1,0 +1,15 @@
+- !<AssetCache/1ebfd1f0-9717-1204-75c3-f618844b02d9>
+  AssetFiles:
+    8e611039-9c6c-4be7-b2bf-672451d6fc28: 2317ab0a-9073-4868-9324-52f74341b585/1ebfd1f09717120475c3f618844b02d9/Data/hockey_stick_color.png
+  AssetCurrentFiles:
+    8e611039-9c6c-4be7-b2bf-672451d6fc28: 2317ab0a-9073-4868-9324-52f74341b585/1ebfd1f09717120475c3f618844b02d9/Data/Performance/Medium/hockey_stick_color.pvr
+  Assets:
+    - !<FileTexture/8e611039-9c6c-4be7-b2bf-672451d6fc28>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 1ebfd1f09717120475c3f618844b02d9
+  FileHash: d95cb84b4081234a30ca9f93fad64def
+  NativePackageItems:
+    []

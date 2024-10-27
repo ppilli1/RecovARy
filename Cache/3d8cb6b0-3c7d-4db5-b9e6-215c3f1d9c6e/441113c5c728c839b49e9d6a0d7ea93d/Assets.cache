@@ -1,0 +1,15 @@
+- !<AssetCache/441113c5-c728-c839-b49e-9d6a0d7ea93d>
+  AssetFiles:
+    9ffa457b-9592-43b4-b142-d78efd02646a: 3d8cb6b0-3c7d-4db5-b9e6-215c3f1d9c6e/441113c5c728c839b49e9d6a0d7ea93d/Data/cooking_table_color.png
+  AssetCurrentFiles:
+    9ffa457b-9592-43b4-b142-d78efd02646a: 3d8cb6b0-3c7d-4db5-b9e6-215c3f1d9c6e/441113c5c728c839b49e9d6a0d7ea93d/Data/Performance/Medium/cooking_table_color.pvr
+  Assets:
+    - !<FileTexture/9ffa457b-9592-43b4-b142-d78efd02646a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 441113c5c728c839b49e9d6a0d7ea93d
+  FileHash: d4ef9cec8214322bffb70db22991628b
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/7a813c5f-c658-164a-fa43-073f1e1f9857>
+  AssetFiles:
+    123bf8d8-1184-44c5-91c0-0fba8498c325: 628b3c87-e193-4d5d-8743-b8b3b90022bb/7a813c5fc658164afa43073f1e1f9857/Data/bin_color.png
+  AssetCurrentFiles:
+    123bf8d8-1184-44c5-91c0-0fba8498c325: 628b3c87-e193-4d5d-8743-b8b3b90022bb/7a813c5fc658164afa43073f1e1f9857/Data/Performance/Medium/bin_color.pvr
+  Assets:
+    - !<FileTexture/123bf8d8-1184-44c5-91c0-0fba8498c325>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 7a813c5fc658164afa43073f1e1f9857
+  FileHash: d4233428f7519d759acc6d9d4f390e7c
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/416c6bfa-a4ac-8e7d-a852-e8cb15970682>
+  AssetFiles:
+    e53ef1c2-8485-4635-96e6-06c5d393913c: 138cfdc5-f45a-40bc-b4ec-3d7e973a0fad/416c6bfaa4ac8e7da852e8cb15970682/Data/icerink_color.png
+  AssetCurrentFiles:
+    e53ef1c2-8485-4635-96e6-06c5d393913c: 138cfdc5-f45a-40bc-b4ec-3d7e973a0fad/416c6bfaa4ac8e7da852e8cb15970682/Data/Performance/Medium/icerink_color.pvr
+  Assets:
+    - !<FileTexture/e53ef1c2-8485-4635-96e6-06c5d393913c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 416c6bfaa4ac8e7da852e8cb15970682
+  FileHash: 570e2852c4d3d438dc6da4a7384ce087
+  NativePackageItems:
+    []

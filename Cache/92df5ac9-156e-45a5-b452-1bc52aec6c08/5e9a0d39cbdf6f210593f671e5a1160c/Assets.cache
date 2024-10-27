@@ -1,0 +1,15 @@
+- !<AssetCache/5e9a0d39-cbdf-6f21-0593-f671e5a1160c>
+  AssetFiles:
+    d9d168c4-9e4a-4d7c-80d6-726a34f1403e: 92df5ac9-156e-45a5-b452-1bc52aec6c08/5e9a0d39cbdf6f210593f671e5a1160c/Data/stick_color.png
+  AssetCurrentFiles:
+    d9d168c4-9e4a-4d7c-80d6-726a34f1403e: 92df5ac9-156e-45a5-b452-1bc52aec6c08/5e9a0d39cbdf6f210593f671e5a1160c/Data/Performance/Medium/stick_color.pvr
+  Assets:
+    - !<FileTexture/d9d168c4-9e4a-4d7c-80d6-726a34f1403e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 5e9a0d39cbdf6f210593f671e5a1160c
+  FileHash: da7763071bb0152c2526a4c58a172020
+  NativePackageItems:
+    []

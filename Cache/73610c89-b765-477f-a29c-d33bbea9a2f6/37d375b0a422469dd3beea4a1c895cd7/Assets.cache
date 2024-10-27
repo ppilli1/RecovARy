@@ -1,0 +1,15 @@
+- !<AssetCache/37d375b0-a422-469d-d3be-ea4a1c895cd7>
+  AssetFiles:
+    2df9b1aa-5e58-4c15-8a40-1582bd64450d: 73610c89-b765-477f-a29c-d33bbea9a2f6/37d375b0a422469dd3beea4a1c895cd7/Data/kayak_paddle_color.png
+  AssetCurrentFiles:
+    2df9b1aa-5e58-4c15-8a40-1582bd64450d: 73610c89-b765-477f-a29c-d33bbea9a2f6/37d375b0a422469dd3beea4a1c895cd7/Data/Performance/Medium/kayak_paddle_color.pvr
+  Assets:
+    - !<FileTexture/2df9b1aa-5e58-4c15-8a40-1582bd64450d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 37d375b0a422469dd3beea4a1c895cd7
+  FileHash: a221e220c317aed6376211ad298b4894
+  NativePackageItems:
+    []

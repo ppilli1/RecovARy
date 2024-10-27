@@ -1,0 +1,135 @@
+- !<ObjectPrefab/70de7d84-4683-400d-9304-9092d1a44268>
+  PackagePath: ""
+  objects:
+    - !<own> 1ba3137d-4c30-43ae-a541-367e048ae542
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/073d9579-ae94-4125-924c-0153457b8813>
+  PrefabRemaps:
+    []
+  Name: Yellow Ball
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -144.540100, y: 159.842865, z: -55.163101}
+    rotation: {x: 114.088989, y: -19.708086, z: -146.494385}
+    scale: {x: 23.156881, y: 23.156885, z: 23.156883}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5047e68a-3cec-4ae7-97a6-dd1bfa59655d
+    - !<own> faf9f6fc-f666-4985-81d6-fe62d29dc78f
+- !<SceneObject/1ba3137d-4c30-43ae-a541-367e048ae542>
+  PrefabRemaps:
+    []
+  Name: Racket And Ball
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 119.281609, y: 38.222336, z: 177.709793}
+    scale: {x: 0.070000, y: 0.070000, z: 0.070000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 44095423-bf70-46b7-b706-7de6361e889c
+    - !<own> 073d9579-ae94-4125-924c-0153457b8813
+  Components:
+    []
+- !<SceneObject/44095423-bf70-46b7-b706-7de6361e889c>
+  PrefabRemaps:
+    []
+  Name: racket
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -155.159439, y: 154.515350, z: -94.950905}
+    rotation: {x: 111.273590, y: -22.928967, z: -138.534698}
+    scale: {x: 100.000000, y: 99.999992, z: 99.999977}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cf8b0ed3-682b-44e1-8e24-32ba167d0c94
+    - !<own> 94557ca1-f22f-43e0-9ebe-477c23e724e1
+- !<RenderMeshVisual/5047e68a-3cec-4ae7-97a6-dd1bfa59655d>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 60c11cd3-7638-43a7-be73-89a0112e765b
+  Mesh: !<reference> 9501feee-2a96-40d8-b82b-6cea21a04f07
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ColliderComponent/94557ca1-f22f-43e0-9ebe-477c23e724e1>
+  PrefabRemaps:
+    []
+  Name: Physics Collider
+  Enabled: true
+  Shape: !<Box/00000000-0000-0000-0000-000000000000>
+    FitVisual: true
+    Size: {x: 15.000000, y: 15.000000, z: 15.000000}
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+- !<RenderMeshVisual/cf8b0ed3-682b-44e1-8e24-32ba167d0c94>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ab84c787-4ac3-4684-9666-7dbb8c67c15e
+  Mesh: !<reference> 08c3328b-e123-4679-9a9a-5bbae7e98fac
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<BodyComponent/faf9f6fc-f666-4985-81d6-fe62d29dc78f>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: true
+    Radius: 6.000000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000

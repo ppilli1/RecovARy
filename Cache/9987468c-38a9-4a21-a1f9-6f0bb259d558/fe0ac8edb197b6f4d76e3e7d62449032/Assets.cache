@@ -1,0 +1,18 @@
+- !<AssetCache/fe0ac8ed-b197-b6f4-d76e-3e7d62449032>
+  AssetFiles:
+    9480b630-eab7-47b9-a775-c47908f57fec: 9987468c-38a9-4a21-a1f9-6f0bb259d558/fe0ac8edb197b6f4d76e3e7d62449032/Data/C_stick_kindle_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/9480b630-eab7-47b9-a775-c47908f57fec>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 56
+        Vertices: 78
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: fe0ac8edb197b6f4d76e3e7d62449032
+  FileHash: d772576002e30d1efb3e4164d2a230ce
+  NativePackageItems:
+    []

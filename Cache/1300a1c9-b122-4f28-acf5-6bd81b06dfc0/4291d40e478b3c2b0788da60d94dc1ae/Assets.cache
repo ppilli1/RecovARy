@@ -1,0 +1,15 @@
+- !<AssetCache/4291d40e-478b-3c2b-0788-da60d94dc1ae>
+  AssetFiles:
+    4b0fc61a-962f-48a3-b78b-fb5cbf4ca293: 1300a1c9-b122-4f28-acf5-6bd81b06dfc0/4291d40e478b3c2b0788da60d94dc1ae/Data/large_bouquet_flower_color.png
+  AssetCurrentFiles:
+    4b0fc61a-962f-48a3-b78b-fb5cbf4ca293: 1300a1c9-b122-4f28-acf5-6bd81b06dfc0/4291d40e478b3c2b0788da60d94dc1ae/Data/Performance/Medium/large_bouquet_flower_color.pvr
+  Assets:
+    - !<FileTexture/4b0fc61a-962f-48a3-b78b-fb5cbf4ca293>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 4291d40e478b3c2b0788da60d94dc1ae
+  FileHash: 9cb432e0eabfded91d37fbec307a0b60
+  NativePackageItems:
+    []

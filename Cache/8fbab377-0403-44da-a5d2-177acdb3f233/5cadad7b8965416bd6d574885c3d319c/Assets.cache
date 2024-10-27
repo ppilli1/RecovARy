@@ -1,0 +1,15 @@
+- !<AssetCache/5cadad7b-8965-416b-d6d5-74885c3d319c>
+  AssetFiles:
+    0f7faa9c-2b3a-4d2e-a1f8-397e8f70bae8: 8fbab377-0403-44da-a5d2-177acdb3f233/5cadad7b8965416bd6d574885c3d319c/Data/stone_color.png
+  AssetCurrentFiles:
+    0f7faa9c-2b3a-4d2e-a1f8-397e8f70bae8: 8fbab377-0403-44da-a5d2-177acdb3f233/5cadad7b8965416bd6d574885c3d319c/Data/Performance/Medium/stone_color.pvr
+  Assets:
+    - !<FileTexture/0f7faa9c-2b3a-4d2e-a1f8-397e8f70bae8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 5cadad7b8965416bd6d574885c3d319c
+  FileHash: 1e37d956173bcd367cd06e9b42a7f7a9
+  NativePackageItems:
+    []

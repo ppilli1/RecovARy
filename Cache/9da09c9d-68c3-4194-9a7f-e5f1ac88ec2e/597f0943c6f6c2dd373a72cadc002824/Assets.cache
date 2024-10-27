@@ -1,0 +1,18 @@
+- !<AssetCache/597f0943-c6f6-c2dd-373a-72cadc002824>
+  AssetFiles:
+    782a9072-aca7-4813-824f-8a893231f89e: 9da09c9d-68c3-4194-9a7f-e5f1ac88ec2e/597f0943c6f6c2dd373a72cadc002824/Data/C_tee_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/782a9072-aca7-4813-824f-8a893231f89e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 450
+        Vertices: 333
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 597f0943c6f6c2dd373a72cadc002824
+  FileHash: 0c89a8ea62bd68327ff71c2c2e696027
+  NativePackageItems:
+    []

@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/8a0c17ef-4767-4fc0-b04f-33daf08d3c9f>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> f0c0876d-d54c-4874-86e9-28866b1d8f17
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> f0c0876d-d54c-4874-86e9-28866b1d8f17
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 41b8f32e-5efb-4bab-b39f-eea09bf3a573
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/06d8797e-474f-4000-8e2a-4182f3cfa5f1>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/01cd4db4-b1cc-4a59-8bee-c532d48e97ea>
+  PrefabRemaps:
+    []
+  Name: Generator
+  Enabled: true
+  ScriptAsset: !<reference> a784eb40-b71b-4aae-ad7d-e1aa9bc80774
+  ScriptInputsDefault:
+    ball: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      ball: !<reference.ObjectPrefab> 959c1065-0ac3-41ca-9b7c-0d336ceaba62
+  ScriptTypes:
+    "":
+      {}
+- !<ObjectPrefab/39f34037-7f46-4357-8899-be4ca8c1b937>
+  PackagePath: ""
+  objects:
+    - !<own> c8a6bbe6-149d-411f-b17c-ef61a7788a7a
+  LazyLoading: false
+  RetainAssets: true
+- !<ObjectPrefabAssetData/41b8f32e-5efb-4bab-b39f-eea09bf3a573>
+  SourceRemaps:
+    - 2cb06b3e-a5ed-4a66-bb04-1e2350b8e458: c8a6bbe6-149d-411f-b17c-ef61a7788a7a
+    - ee6425d0-2b4e-45c8-aec5-87ed6ee88646: 01cd4db4-b1cc-4a59-8bee-c532d48e97ea
+  SourceState: !<own> 39f34037-7f46-4357-8899-be4ca8c1b937
+- !<SceneObject/c8a6bbe6-149d-411f-b17c-ef61a7788a7a>
+  PrefabRemaps:
+    []
+  Name: Generator
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 23.966328, y: 9.838946, z: -62.475845}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 3.000000, y: 3.100000, z: 2.100000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 01cd4db4-b1cc-4a59-8bee-c532d48e97ea

@@ -1,0 +1,15 @@
+- !<AssetCache/d49a01fa-3f6f-331b-c9fd-d1a5acf454dd>
+  AssetFiles:
+    7ce8de44-1e2d-494f-9e9e-426c8780d823: f22aece5-0266-41c5-8216-fcef17b133b5/d49a01fa3f6f331bc9fdd1a5acf454dd/Data/stool_color.png
+  AssetCurrentFiles:
+    7ce8de44-1e2d-494f-9e9e-426c8780d823: f22aece5-0266-41c5-8216-fcef17b133b5/d49a01fa3f6f331bc9fdd1a5acf454dd/Data/Performance/Medium/stool_color.pvr
+  Assets:
+    - !<FileTexture/7ce8de44-1e2d-494f-9e9e-426c8780d823>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: d49a01fa3f6f331bc9fdd1a5acf454dd
+  FileHash: 2d859caa9fcbe7a037f41acdebc21940
+  NativePackageItems:
+    []

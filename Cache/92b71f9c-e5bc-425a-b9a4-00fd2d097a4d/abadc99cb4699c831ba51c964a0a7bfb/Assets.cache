@@ -1,0 +1,15 @@
+- !<AssetCache/abadc99c-b469-9c83-1ba5-1c964a0a7bfb>
+  AssetFiles:
+    6c5ccc3f-45a0-4b43-aff5-e8a83e40c06b: 92b71f9c-e5bc-425a-b9a4-00fd2d097a4d/abadc99cb4699c831ba51c964a0a7bfb/Data/stick_kindle_color.png
+  AssetCurrentFiles:
+    6c5ccc3f-45a0-4b43-aff5-e8a83e40c06b: 92b71f9c-e5bc-425a-b9a4-00fd2d097a4d/abadc99cb4699c831ba51c964a0a7bfb/Data/Performance/Medium/stick_kindle_color.pvr
+  Assets:
+    - !<FileTexture/6c5ccc3f-45a0-4b43-aff5-e8a83e40c06b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: abadc99cb4699c831ba51c964a0a7bfb
+  FileHash: 746650e155c6b52be4cc4abc2accb247
+  NativePackageItems:
+    []

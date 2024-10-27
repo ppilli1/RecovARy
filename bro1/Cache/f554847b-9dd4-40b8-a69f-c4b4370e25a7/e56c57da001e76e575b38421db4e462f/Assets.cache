@@ -1,0 +1,18 @@
+- !<AssetCache/e56c57da-001e-76e5-75b3-8421db4e462f>
+  AssetFiles:
+    6b481d2c-1cfe-40b7-a6d9-50026bb9e76e: f554847b-9dd4-40b8-a69f-c4b4370e25a7/e56c57da001e76e575b38421db4e462f/Data/R_drawer4_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/6b481d2c-1cfe-40b7-a6d9-50026bb9e76e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 62
+        Vertices: 122
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: e56c57da001e76e575b38421db4e462f
+  FileHash: 580809dd9096203507e390be79e23a9e
+  NativePackageItems:
+    []

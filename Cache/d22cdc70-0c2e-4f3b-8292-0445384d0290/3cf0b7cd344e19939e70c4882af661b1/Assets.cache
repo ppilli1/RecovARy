@@ -1,0 +1,18 @@
+- !<AssetCache/3cf0b7cd-344e-1993-9e70-c4882af661b1>
+  AssetFiles:
+    f4bd58c8-76c9-4df0-a914-d54914550586: d22cdc70-0c2e-4f3b-8292-0445384d0290/3cf0b7cd344e19939e70c4882af661b1/Data/C_stone_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/f4bd58c8-76c9-4df0-a914-d54914550586>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 138
+        Vertices: 133
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 3cf0b7cd344e19939e70c4882af661b1
+  FileHash: 75755d9ef46c412db9055c239a99df83
+  NativePackageItems:
+    []

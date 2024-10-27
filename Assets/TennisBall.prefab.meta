@@ -1,0 +1,85 @@
+- !<AssetImportMetadata/413f5c8d-d7b0-4660-bcfb-545ce89883d2>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 99415212-d1e3-4c5a-911c-548bdd19578e
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 99415212-d1e3-4c5a-911c-548bdd19578e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> c95419a2-3f6b-4f7c-94a5-b9a5bfffe3d2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/d417da33-716b-4ff0-98d8-e087a928501e>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/280278cc-83d9-465c-8f8a-24f4869fb4ec>
+  PrefabRemaps:
+    []
+  Name: TennisBall
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 17.259293, z: -104.106102}
+    rotation: {x: 0.000000, y: -0.000016, z: 0.000000}
+    scale: {x: 6.000000, y: 6.000000, z: 6.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b0efb379-3336-4386-9f40-606d979c3a6d
+    - !<own> 631e1d18-409a-4233-bfc8-85bd4f1a76e4
+- !<BodyComponent/631e1d18-409a-4233-bfc8-85bd4f1a76e4>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: true
+    Radius: 6.000000
+  Matter: !<reference> b6b5075b-d7b4-4750-9f1a-db34987abd9c
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 0.000100
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<ObjectPrefab/77591225-32cb-47a2-a48e-7fc92eafc78e>
+  PackagePath: ""
+  objects:
+    - !<own> 280278cc-83d9-465c-8f8a-24f4869fb4ec
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/b0efb379-3336-4386-9f40-606d979c3a6d>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9c9f5c8a-e607-42a1-b1d8-75398cc7e532
+  Mesh: !<reference> 9501feee-2a96-40d8-b82b-6cea21a04f07
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/c95419a2-3f6b-4f7c-94a5-b9a5bfffe3d2>
+  SourceRemaps:
+    - 023a076b-ad44-450f-b76b-07559e534a9b: b0efb379-3336-4386-9f40-606d979c3a6d
+    - 0fb7b4db-a286-4673-a464-40da7e62ca6e: 280278cc-83d9-465c-8f8a-24f4869fb4ec
+    - ef3074c0-bed4-4005-94a2-25544103c123: 631e1d18-409a-4233-bfc8-85bd4f1a76e4
+  SourceState: !<own> 77591225-32cb-47a2-a48e-7fc92eafc78e

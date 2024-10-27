@@ -1,0 +1,18 @@
+- !<AssetCache/dc1787a6-b072-d027-e6f8-e8ae8bdbef6f>
+  AssetFiles:
+    82e58c23-52ac-4b8b-8490-a73ddb9ffaba: 21f81f11-914a-459b-87fe-dc42efd383a7/dc1787a6b072d027e6f8e8ae8bdbef6f/Data/L_drawer3_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/82e58c23-52ac-4b8b-8490-a73ddb9ffaba>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 62
+        Vertices: 121
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: dc1787a6b072d027e6f8e8ae8bdbef6f
+  FileHash: 62a77aa86272a04ff2c6e601005e74f2
+  NativePackageItems:
+    []

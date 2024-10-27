@@ -1,0 +1,15 @@
+- !<AssetCache/7f8e6d3f-25c3-51c9-7c57-cf2a92656ab5>
+  AssetFiles:
+    5272b895-482f-4dd2-b20e-0626a47a1793: a7411455-0337-4b65-a7f4-bd0ccfb38dfe/7f8e6d3f25c351c97c57cf2a92656ab5/Data/grass_scene_color.png
+  AssetCurrentFiles:
+    5272b895-482f-4dd2-b20e-0626a47a1793: a7411455-0337-4b65-a7f4-bd0ccfb38dfe/7f8e6d3f25c351c97c57cf2a92656ab5/Data/Performance/Medium/grass_scene_color.pvr
+  Assets:
+    - !<FileTexture/5272b895-482f-4dd2-b20e-0626a47a1793>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 7f8e6d3f25c351c97c57cf2a92656ab5
+  FileHash: f97c695900aab68b7b5f8190c5282c9e
+  NativePackageItems:
+    []

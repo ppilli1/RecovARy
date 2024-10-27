@@ -1,0 +1,95 @@
+- !<AssetImportMetadata/4a2bcd25-f313-4fa3-8a2f-095cdcbeb0e0>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> b99857f3-e747-4825-88da-dbca2ddca188
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> b99857f3-e747-4825-88da-dbca2ddca188
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 24eeb6a6-dc1e-4999-bcc9-011e11acee49
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/b88e8a3d-0fc0-4a17-81c5-b464f1b04a9f>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/24eeb6a6-dc1e-4999-bcc9-011e11acee49>
+  SourceRemaps:
+    - 260f7f64-bbd1-473b-b746-2d7b637d998f: 91acd6f3-792f-4817-86de-58dde23dc033
+    - 9b88906e-ec99-4785-82ec-1772d4ea726d: 43ff041b-ad45-4aae-b10e-e799cb981d25
+    - 9dcefb19-3f13-481d-968f-2ade52389a37: e79502b4-57ba-42d6-b9d4-df48094f28b8
+    - b8df95e0-b5a7-4660-b9d4-36f21aef0aa2: e50336de-f301-4ac0-98b5-0744f79b7598
+  SourceState: !<own> 6b382ce4-1eb7-40ec-b225-18550f95f48e
+- !<SceneObject/43ff041b-ad45-4aae-b10e-e799cb981d25>
+  PrefabRemaps:
+    []
+  Name: Tennis Ball
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -6.070584, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000016, z: 0.000000}
+    scale: {x: 1.558118, y: 1.558118, z: 1.558118}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 91acd6f3-792f-4817-86de-58dde23dc033
+- !<ObjectPrefab/6b382ce4-1eb7-40ec-b225-18550f95f48e>
+  PackagePath: ""
+  objects:
+    - !<own> e79502b4-57ba-42d6-b9d4-df48094f28b8
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/91acd6f3-792f-4817-86de-58dde23dc033>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 06446739-604f-4940-aa99-dc2debf68112
+  Mesh: !<reference> 8f62e3fd-001f-4602-88ac-cc0f7144a7f0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ColliderComponent/e50336de-f301-4ac0-98b5-0744f79b7598>
+  PrefabRemaps:
+    []
+  Name: Physics Collider
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: false
+    Radius: 5.900000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: true
+- !<SceneObject/e79502b4-57ba-42d6-b9d4-df48094f28b8>
+  PrefabRemaps:
+    []
+  Name: Tennis Ball Collider
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 46.405991, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.914565, y: 0.914565, z: 0.914565}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 43ff041b-ad45-4aae-b10e-e799cb981d25
+  Components:
+    - !<own> e50336de-f301-4ac0-98b5-0744f79b7598

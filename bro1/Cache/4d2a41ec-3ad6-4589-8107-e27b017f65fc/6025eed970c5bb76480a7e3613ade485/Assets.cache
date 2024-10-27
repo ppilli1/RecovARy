@@ -1,0 +1,18 @@
+- !<AssetCache/6025eed9-70c5-bb76-480a-7e3613ade485>
+  AssetFiles:
+    1da5af14-65d9-43bd-b3ba-c9e48f65a0ce: 4d2a41ec-3ad6-4589-8107-e27b017f65fc/6025eed970c5bb76480a7e3613ade485/Data/C_countertop_empty_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/1da5af14-65d9-43bd-b3ba-c9e48f65a0ce>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 28
+        Vertices: 44
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 6025eed970c5bb76480a7e3613ade485
+  FileHash: 67b58419ae6ef37b0d44423cb2a6494a
+  NativePackageItems:
+    []

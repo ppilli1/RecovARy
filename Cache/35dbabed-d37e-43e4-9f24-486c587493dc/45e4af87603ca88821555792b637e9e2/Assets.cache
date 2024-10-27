@@ -1,0 +1,15 @@
+- !<AssetCache/45e4af87-603c-a888-2155-5792b637e9e2>
+  AssetFiles:
+    aa249f02-80d8-47ca-9f41-da352b4ffa1b: 35dbabed-d37e-43e4-9f24-486c587493dc/45e4af87603ca88821555792b637e9e2/Data/tumbleweed_color.png
+  AssetCurrentFiles:
+    aa249f02-80d8-47ca-9f41-da352b4ffa1b: 35dbabed-d37e-43e4-9f24-486c587493dc/45e4af87603ca88821555792b637e9e2/Data/Performance/Medium/tumbleweed_color.pvr
+  Assets:
+    - !<FileTexture/aa249f02-80d8-47ca-9f41-da352b4ffa1b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 45e4af87603ca88821555792b637e9e2
+  FileHash: cd8c23cff882f5938adc10ea2d21f2b3
+  NativePackageItems:
+    []

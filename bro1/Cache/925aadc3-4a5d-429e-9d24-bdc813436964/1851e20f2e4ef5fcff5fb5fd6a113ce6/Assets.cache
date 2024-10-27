@@ -1,0 +1,18 @@
+- !<AssetCache/1851e20f-2e4e-f5fc-ff5f-b5fd6a113ce6>
+  AssetFiles:
+    f68e0b37-a42a-4210-9a19-2ab1329a7cb4: 925aadc3-4a5d-429e-9d24-bdc813436964/1851e20f2e4ef5fcff5fb5fd6a113ce6/Data/C_karate_board_holder_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/f68e0b37-a42a-4210-9a19-2ab1329a7cb4>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 64
+        Vertices: 127
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 1851e20f2e4ef5fcff5fb5fd6a113ce6
+  FileHash: aca9387dbcdc1efa9039ea2acb01f728
+  NativePackageItems:
+    []

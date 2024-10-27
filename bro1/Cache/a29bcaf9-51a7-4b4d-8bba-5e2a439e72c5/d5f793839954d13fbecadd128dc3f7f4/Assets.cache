@@ -1,0 +1,15 @@
+- !<AssetCache/d5f79383-9954-d13f-beca-dd128dc3f7f4>
+  AssetFiles:
+    1f77e09a-baad-4fdb-b24d-27655e428b8f: a29bcaf9-51a7-4b4d-8bba-5e2a439e72c5/d5f793839954d13fbecadd128dc3f7f4/Data/skeleton_sled_color.png
+  AssetCurrentFiles:
+    1f77e09a-baad-4fdb-b24d-27655e428b8f: a29bcaf9-51a7-4b4d-8bba-5e2a439e72c5/d5f793839954d13fbecadd128dc3f7f4/Data/Performance/Medium/skeleton_sled_color.pvr
+  Assets:
+    - !<FileTexture/1f77e09a-baad-4fdb-b24d-27655e428b8f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: d5f793839954d13fbecadd128dc3f7f4
+  FileHash: 284e64aaebadba20918b318ab879ae2a
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/41b79cea-704a-0239-5da6-4b172108719b>
+  AssetFiles:
+    4232c68f-e13f-43a8-822b-943d8fbb972e: a43c0b2a-f1b5-4c51-95ef-e66f64bb7e15/41b79cea704a02395da64b172108719b/Data/C_kayak_hole_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/4232c68f-e13f-43a8-822b-943d8fbb972e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 46
+        Vertices: 32
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 41b79cea704a02395da64b172108719b
+  FileHash: 12076f30a3a2e0c9e02b3b176069a9c0
+  NativePackageItems:
+    []

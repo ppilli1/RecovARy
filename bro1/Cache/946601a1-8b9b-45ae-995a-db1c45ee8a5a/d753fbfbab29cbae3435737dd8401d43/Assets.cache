@@ -1,0 +1,18 @@
+- !<AssetCache/d753fbfb-ab29-cbae-3435-737dd8401d43>
+  AssetFiles:
+    66b94e0b-0633-4349-a3a3-1fe9240823ec: 946601a1-8b9b-45ae-995a-db1c45ee8a5a/d753fbfbab29cbae3435737dd8401d43/Data/C_desk_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/66b94e0b-0633-4349-a3a3-1fe9240823ec>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 252
+        Vertices: 349
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d753fbfbab29cbae3435737dd8401d43
+  FileHash: c9fa5dfa65d4182ac4095e5da4ef006c
+  NativePackageItems:
+    []

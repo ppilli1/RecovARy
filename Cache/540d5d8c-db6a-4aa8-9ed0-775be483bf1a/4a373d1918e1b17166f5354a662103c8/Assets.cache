@@ -1,0 +1,18 @@
+- !<AssetCache/4a373d19-18e1-b171-66f5-354a662103c8>
+  AssetFiles:
+    21960693-e37a-4e1b-85d5-54c85fefbed7: 540d5d8c-db6a-4aa8-9ed0-775be483bf1a/4a373d1918e1b17166f5354a662103c8/Data/C_stickUpper_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/21960693-e37a-4e1b-85d5-54c85fefbed7>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 78
+        Vertices: 109
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 4a373d1918e1b17166f5354a662103c8
+  FileHash: 6380e3573749aaad54a8498fbd3186cb
+  NativePackageItems:
+    []

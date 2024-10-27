@@ -1,0 +1,18 @@
+- !<AssetCache/36126342-9b0d-dd35-028f-90fc8dfd8d16>
+  AssetFiles:
+    af83b856-d5fb-43ed-b3b4-b2f3ef7296c5: 45a40aaa-11d6-4dbe-a045-aed6cdb5f6a0/361263429b0ddd35028f90fc8dfd8d16/Data/C_tree_apple_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/af83b856-d5fb-43ed-b3b4-b2f3ef7296c5>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 4028
+        Vertices: 2558
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 361263429b0ddd35028f90fc8dfd8d16
+  FileHash: 689b40964f3e80f7c6ba7c6e06f1bcc5
+  NativePackageItems:
+    []

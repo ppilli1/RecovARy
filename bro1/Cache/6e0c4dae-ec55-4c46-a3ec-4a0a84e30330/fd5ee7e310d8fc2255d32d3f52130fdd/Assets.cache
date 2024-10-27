@@ -1,0 +1,15 @@
+- !<AssetCache/fd5ee7e3-10d8-fc22-55d3-2d3f52130fdd>
+  AssetFiles:
+    596e7ba6-96f8-4ab3-8bb7-56e31a11dac2: 6e0c4dae-ec55-4c46-a3ec-4a0a84e30330/fd5ee7e310d8fc2255d32d3f52130fdd/Data/WallMaterial.jpg
+  AssetCurrentFiles:
+    596e7ba6-96f8-4ab3-8bb7-56e31a11dac2: 6e0c4dae-ec55-4c46-a3ec-4a0a84e30330/fd5ee7e310d8fc2255d32d3f52130fdd/Data/Performance/Medium/WallMaterial.pvr
+  Assets:
+    - !<FileTexture/596e7ba6-96f8-4ab3-8bb7-56e31a11dac2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 477
+        Height: 355
+  SourceHash: fd5ee7e310d8fc2255d32d3f52130fdd
+  FileHash: c703604ffffde014b93808628be82236
+  NativePackageItems:
+    []

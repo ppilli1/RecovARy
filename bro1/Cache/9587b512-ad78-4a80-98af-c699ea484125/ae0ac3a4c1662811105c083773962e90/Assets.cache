@@ -1,0 +1,18 @@
+- !<AssetCache/ae0ac3a4-c166-2811-105c-083773962e90>
+  AssetFiles:
+    9205357b-a444-4cef-bf64-35161263812e: 9587b512-ad78-4a80-98af-c699ea484125/ae0ac3a4c1662811105c083773962e90/Data/C_ballBaseball_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/9205357b-a444-4cef-bf64-35161263812e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 336
+        Vertices: 190
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: ae0ac3a4c1662811105c083773962e90
+  FileHash: f33673d774ad62f4629d711d3845cbfb
+  NativePackageItems:
+    []

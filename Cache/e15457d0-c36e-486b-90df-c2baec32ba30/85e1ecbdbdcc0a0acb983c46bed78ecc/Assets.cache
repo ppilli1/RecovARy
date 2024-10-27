@@ -1,0 +1,18 @@
+- !<AssetCache/85e1ecbd-bdcc-0a0a-cb98-3c46bed78ecc>
+  AssetFiles:
+    4253dbbe-6c38-4bf7-8b1a-e2d81d6afa86: e15457d0-c36e-486b-90df-c2baec32ba30/85e1ecbdbdcc0a0acb983c46bed78ecc/Data/C_stick_pile_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/4253dbbe-6c38-4bf7-8b1a-e2d81d6afa86>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 928
+        Vertices: 943
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 85e1ecbdbdcc0a0acb983c46bed78ecc
+  FileHash: a78e0ca6d72da5822dbecde4461ad6ba
+  NativePackageItems:
+    []

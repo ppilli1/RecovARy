@@ -1,0 +1,18 @@
+- !<AssetCache/e2543634-b7c0-68fe-a71a-67cedf1e42b3>
+  AssetFiles:
+    dc77251d-dfe6-4702-9d35-79c0de4a2802: fc268d3d-d5fb-4eec-8fca-eef270ee8fc7/e2543634b7c068fea71a67cedf1e42b3/Data/C_grass_scene_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/dc77251d-dfe6-4702-9d35-79c0de4a2802>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 1207
+        Vertices: 1148
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: e2543634b7c068fea71a67cedf1e42b3
+  FileHash: 666df2f5bb3e8dfaec2c59130a6ae017
+  NativePackageItems:
+    []
