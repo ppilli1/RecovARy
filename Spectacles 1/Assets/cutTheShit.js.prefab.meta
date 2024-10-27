@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/28b78d8a-3aed-4c64-a959-1b5c23011eef>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 46e31501-426f-44a8-8d59-f91c3898e8da
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 46e31501-426f-44a8-8d59-f91c3898e8da
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 74442a23-e002-4ebd-861e-253738bd0e27
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/588f587e-3ff0-42e8-acf6-72a63555a696>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefab/246d1e61-42c3-4168-81c5-47194eca25bc>
+  PackagePath: ""
+  objects:
+    - !<own> f888d2a3-8094-495f-b0c6-f2d4702a3dc1
+  LazyLoading: false
+  RetainAssets: true
+- !<ObjectPrefabAssetData/74442a23-e002-4ebd-861e-253738bd0e27>
+  SourceRemaps:
+    - d035b3c5-249b-47ff-8a4f-af205bd80a0f: 9b4e6c32-edc9-4cc0-a134-c61d75a07ec4
+    - d64be028-a23e-446e-8448-1affb3011ad4: f888d2a3-8094-495f-b0c6-f2d4702a3dc1
+  SourceState: !<own> 246d1e61-42c3-4168-81c5-47194eca25bc
+- !<ScriptComponent/9b4e6c32-edc9-4cc0-a134-c61d75a07ec4>
+  PrefabRemaps:
+    []
+  Name: cutTheShit.js
+  Enabled: true
+  ScriptAsset: !<reference> 673a8ebf-b646-42ce-952b-ddbb75570624
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/f888d2a3-8094-495f-b0c6-f2d4702a3dc1>
+  PrefabRemaps:
+    []
+  Name: cutTheShit.js
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9b4e6c32-edc9-4cc0-a134-c61d75a07ec4

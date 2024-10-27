@@ -1,0 +1,65 @@
+- !<ObjectPrefab/1585e400-5576-47ef-8e36-17fa97a16e1c>
+  PackagePath: ""
+  objects:
+    - !<own> a9f97d60-5d04-4695-b25d-4392115c81b9
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/3db54301-4052-4502-bde1-59982a2d2755>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 59e787b3-a0a5-4819-afc3-f072e9ca77ae
+  Mesh: !<reference> b70a6c60-48f5-4149-93a2-d5f8ca78ea31
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<BodyComponent/437421cf-1787-4a98-b980-f09e4927faa2>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: true
+    Radius: 6.000000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<SceneObject/a9f97d60-5d04-4695-b25d-4392115c81b9>
+  PrefabRemaps:
+    []
+  Name: Sphere prrefab
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 10.000000, y: 10.000000, z: 10.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3db54301-4052-4502-bde1-59982a2d2755
+    - !<own> 437421cf-1787-4a98-b980-f09e4927faa2

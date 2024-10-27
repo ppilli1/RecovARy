@@ -1,0 +1,44 @@
+- !<ObjectPrefab/b7c5bef7-465a-4093-9bae-96037b87662f>
+  PackagePath: ""
+  objects:
+    - !<own> 5ef46887-9483-4097-aad9-5db39bf8483b
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/5ef46887-9483-4097-aad9-5db39bf8483b>
+  PrefabRemaps:
+    []
+  Name: FruitSpawner
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fdd2c93a-60f8-4199-9692-873fea9ef15d
+- !<ScriptComponent/fdd2c93a-60f8-4199-9692-873fea9ef15d>
+  PrefabRemaps:
+    []
+  Name: FruitSpawner
+  Enabled: true
+  ScriptAsset: !<reference> 7fa1d920-2677-43e0-ba2e-18e4aff4075a
+  ScriptInputsDefault:
+    watermelonPrefabs: true
+    spawnParent: true
+    randomBounds: true
+    camera: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      watermelonPrefabs: !<reference.ObjectPrefab[]>
+        []
+      spawnParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      randomBounds: !<Vec2> {x: 0.000000, y: 0.000000}
+      camera: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    "":
+      {}

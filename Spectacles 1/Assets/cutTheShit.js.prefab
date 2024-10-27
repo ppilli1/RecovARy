@@ -1,0 +1,37 @@
+- !<ObjectPrefab/46e31501-426f-44a8-8d59-f91c3898e8da>
+  PackagePath: ""
+  objects:
+    - !<own> d64be028-a23e-446e-8448-1affb3011ad4
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/d035b3c5-249b-47ff-8a4f-af205bd80a0f>
+  PrefabRemaps:
+    []
+  Name: cutTheShit.js
+  Enabled: true
+  ScriptAsset: !<reference> 673a8ebf-b646-42ce-952b-ddbb75570624
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/d64be028-a23e-446e-8448-1affb3011ad4>
+  PrefabRemaps:
+    []
+  Name: cutTheShit.js
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d035b3c5-249b-47ff-8a4f-af205bd80a0f

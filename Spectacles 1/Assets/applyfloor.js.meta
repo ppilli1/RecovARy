@@ -1,0 +1,36 @@
+- !<AssetImportMetadata/671f7ffd-0725-465f-88d2-2bf017445142>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> f4107c8c-ef94-4495-bee2-164377e92cc8
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> f4107c8c-ef94-4495-bee2-164377e92cc8
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7ac35ff2-e2fe-419c-87da-db92f0946bfe
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/e33e6f8e-66db-490e-920d-7e2fa06c77a9>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/7ac35ff2-e2fe-419c-87da-db92f0946bfe>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    physicsBox: false
+    surfaceTracking: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - physicsBox: !<reference.PhysicsBody> 00000000-0000-0000-0000-000000000000
+      surfaceTracking: !<reference.SurfaceTracking> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

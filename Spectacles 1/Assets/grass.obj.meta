@@ -1,0 +1,102 @@
+- !<AssetImportMetadata/3cba0c5a-1952-4f4e-9fe6-c75c90dd12f7>
+  ImportedAssetIds:
+    .hidden/10450_Rectangular_Grass_Patch_v1: !<reference> de847895-9a88-4401-9a44-c829f6d41c90
+    .hidden/white: !<reference> ae4e85d8-2aff-4cdb-a0d5-6528799d8fa9
+    0ed599b9cdc59ed9: !<reference> f0fb4031-262b-4e33-84df-a6f11f6999ca
+    66780cf3a4dcb2b8: !<reference> bf84cc67-4df6-40ac-a914-fd33922ce390
+    Materials/10450_Rectangular_Grass_Patch_v1: !<reference> 403cb4b7-223a-4d3f-ae7d-6bff3a46ad73
+    Materials/10450_Rectangular_Grass_Patch_v1|10450_Rectangular_Grass_Patch_v1|GraphPassInfo: !<reference> 79c9848a-28c0-46c1-a5c0-caee12a36efb
+    Meshes/10450_Rectangular_Grass_Patch_v1: !<reference> 78298029-3866-4dde-9d0f-0bd56e3b8f34
+    Scene: !<reference> 6f2e03e0-6afc-416a-a2de-1319a8fb87db
+    Textures/10450_Rectangular_Grass_Patch_v1_Diffuse: !<reference> 452c735f-a2ee-4780-8bd4-2d4cd8f61836
+    c6103efccf18c59c: !<reference> 566cd58a-3a95-4de8-bebc-9e94c93ce9ec
+  ImporterName: ObjImporter
+  PrimaryAsset: !<reference> 6f2e03e0-6afc-416a-a2de-1319a8fb87db
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> 6e449f02-8eb3-42b4-a747-ab8fda3276f7
+  DependentFiles:
+    - 10450_Rectangular_Grass_Patch_v1_Diffuse.jpg
+    - 10450_Rectangular_Grass_Patch_v1_iterations-2.mtl
+  ImporterSettings: !<D3FileImporterSettingsBase/b2c13126-e0d0-4000-a783-072a15e4a58c>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitize
+    PersistentIdGenerationAlgorithm: DescriptorBased
+  CompressionSettings: !<ComplexCompressionSettings/8018cf3d-3127-406a-bb22-3f3b23cf34cc>
+    Presets:
+      Performance Compression: !<SingleCompressionSettings/f6d80b01-edd0-4bcf-a391-0612e0273e70>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/57de2c28-299f-4498-8186-2f6402f1e8a7>
+          Level: Medium
+      None Compression: !<SingleCompressionSettings/533ee51a-e397-480c-a57a-bbc2e0cfb3ff>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+    ExtensionMappings:
+      jpg: Performance Compression
+      mesh: None Compression
+    Overrides:
+      {}
+- !<ObjectPrefabAssetData/6e449f02-8eb3-42b4-a747-ab8fda3276f7>
+  SourceRemaps:
+    - 566cd58a-3a95-4de8-bebc-9e94c93ce9ec: 9728ff5c-de89-4157-b7d4-5f5459426b56
+    - bf84cc67-4df6-40ac-a914-fd33922ce390: 91b7f011-5320-4524-a25d-14d2a5b9f782
+    - f0fb4031-262b-4e33-84df-a6f11f6999ca: b5499191-d745-44e7-9f13-5307f13a0a2e
+  SourceState: !<own> bf6900bb-0b95-4dbe-9cc9-a0e84e52e5ab
+- !<SceneObject/91b7f011-5320-4524-a25d-14d2a5b9f782>
+  PrefabRemaps:
+    []
+  Name: 10450_Rectangular_Grass_Patch_v1_iterations-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9728ff5c-de89-4157-b7d4-5f5459426b56
+  Components:
+    []
+- !<SceneObject/9728ff5c-de89-4157-b7d4-5f5459426b56>
+  PrefabRemaps:
+    []
+  Name: 10450_Rectangular_Grass_Patch_v1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b5499191-d745-44e7-9f13-5307f13a0a2e
+- !<RenderMeshVisual/b5499191-d745-44e7-9f13-5307f13a0a2e>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 403cb4b7-223a-4d3f-ae7d-6bff3a46ad73
+  Mesh: !<reference> 78298029-3866-4dde-9d0f-0bd56e3b8f34
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefab/bf6900bb-0b95-4dbe-9cc9-a0e84e52e5ab>
+  PackagePath: ""
+  objects:
+    - !<own> 91b7f011-5320-4524-a25d-14d2a5b9f782
+  LazyLoading: false
+  RetainAssets: true

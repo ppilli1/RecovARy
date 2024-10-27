@@ -1,0 +1,96 @@
+- !<ObjectPrefab/f65813cd-bfe4-4e42-8bb2-130d1678bf37>
+  PackagePath: ""
+  objects:
+    - !<own> 2aea14ae-cd4a-492a-a415-cda8f39cfab1
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/2aea14ae-cd4a-492a-a415-cda8f39cfab1>
+  PrefabRemaps:
+    []
+  Name: watermelon
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5354249e-25b0-429b-b245-bd17db8e650e
+  Components:
+    - !<own> 74d81aa3-9eda-4861-b6c1-3f936405c321
+    - !<own> c9b82a0e-bf09-406a-8757-0a67fac31306
+- !<SceneObject/5354249e-25b0-429b-b245-bd17db8e650e>
+  PrefabRemaps:
+    []
+  Name: Watermelon vis
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7508e453-5881-465e-85a9-6d452be51599
+- !<BodyComponent/74d81aa3-9eda-4861-b6c1-3f936405c321>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: false
+    Radius: 2.000000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> cfc760be-fe55-4409-9bbc-60ce142efedd
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: true
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<ScriptComponent/7508e453-5881-465e-85a9-6d452be51599>
+  PrefabRemaps:
+    []
+  Name: Watermelon
+  Enabled: true
+  ScriptAsset: !<reference> 91414e7e-4092-47a1-a0a5-730173e5fe1a
+  ScriptInputsDefault:
+    renderOrder: true
+    useShadow: true
+    shadowDensity: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      useShadow: true
+      shadowDensity: !<float> 1.000000
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/c9b82a0e-bf09-406a-8757-0a67fac31306>
+  PrefabRemaps:
+    []
+  Name: Untitled JavaScript 1
+  Enabled: true
+  ScriptAsset: !<reference> 5025915d-d230-4327-b746-a289e01bfee0
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      body: !<reference.BodyComponent> 74d81aa3-9eda-4861-b6c1-3f936405c321
+  ScriptTypes:
+    "":
+      {}

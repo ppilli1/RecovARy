@@ -1,0 +1,118 @@
+- !<AssetImportMetadata/0d138388-35fe-4845-933d-baa19dda122c>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> f65813cd-bfe4-4e42-8bb2-130d1678bf37
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> f65813cd-bfe4-4e42-8bb2-130d1678bf37
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 1bcedf4a-a180-45b0-a7c5-22bd38ebb754
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/59d91054-5b27-41f1-844a-368da701c45d>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/1bcedf4a-a180-45b0-a7c5-22bd38ebb754>
+  SourceRemaps:
+    - 2aea14ae-cd4a-492a-a415-cda8f39cfab1: 52020130-298e-429e-9e27-96684fbf7a86
+    - 5354249e-25b0-429b-b245-bd17db8e650e: d4c25292-afb1-4ce5-a674-07c5a7712dc6
+    - 74d81aa3-9eda-4861-b6c1-3f936405c321: 3a989950-176f-44c5-a6ea-03f55a38b668
+    - 7508e453-5881-465e-85a9-6d452be51599: 903f7a7f-f0bc-4898-9fd5-ce513fab8b5c
+    - c9b82a0e-bf09-406a-8757-0a67fac31306: 78cf9218-f28e-4fa3-b923-4657a0e878aa
+  SourceState: !<own> d7837f81-5168-4806-849d-400b84f3cd13
+- !<BodyComponent/3a989950-176f-44c5-a6ea-03f55a38b668>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Sphere/00000000-0000-0000-0000-000000000000>
+    FitVisual: false
+    Radius: 2.000000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> cfc760be-fe55-4409-9bbc-60ce142efedd
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: true
+  Dynamic: true
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<SceneObject/52020130-298e-429e-9e27-96684fbf7a86>
+  PrefabRemaps:
+    []
+  Name: watermelon
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d4c25292-afb1-4ce5-a674-07c5a7712dc6
+  Components:
+    - !<own> 3a989950-176f-44c5-a6ea-03f55a38b668
+    - !<own> 78cf9218-f28e-4fa3-b923-4657a0e878aa
+- !<ScriptComponent/78cf9218-f28e-4fa3-b923-4657a0e878aa>
+  PrefabRemaps:
+    []
+  Name: Untitled JavaScript 1
+  Enabled: true
+  ScriptAsset: !<reference> 5025915d-d230-4327-b746-a289e01bfee0
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      body: !<reference.BodyComponent> 3a989950-176f-44c5-a6ea-03f55a38b668
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/903f7a7f-f0bc-4898-9fd5-ce513fab8b5c>
+  PrefabRemaps:
+    []
+  Name: Watermelon
+  Enabled: true
+  ScriptAsset: !<reference> 91414e7e-4092-47a1-a0a5-730173e5fe1a
+  ScriptInputsDefault:
+    renderOrder: true
+    useShadow: true
+    shadowDensity: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      useShadow: true
+      shadowDensity: !<float> 1.000000
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/d4c25292-afb1-4ce5-a674-07c5a7712dc6>
+  PrefabRemaps:
+    []
+  Name: Watermelon vis
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 5.000000, y: 5.000000, z: 5.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 903f7a7f-f0bc-4898-9fd5-ce513fab8b5c
+- !<ObjectPrefab/d7837f81-5168-4806-849d-400b84f3cd13>
+  PackagePath: ""
+  objects:
+    - !<own> 52020130-298e-429e-9e27-96684fbf7a86
+  LazyLoading: false
+  RetainAssets: true
